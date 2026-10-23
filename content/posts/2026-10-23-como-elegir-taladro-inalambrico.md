@@ -62,7 +62,7 @@ Un taladro sin brocas adecuadas rinde la mitad. Lo mínimo:
 - **Tarugos y un nivel**, si vas a colgar estantes.
 - **Lentes de protección:** las virutas de metal y el polvo de ladrillo no perdonan.
 
-Podés ver opciones de [juegos de brocas y puntas para taladro en Amazon](https://www.amazon.com/s?k=juego+de+brocas+y+puntas+para+taladro).
+Podés ver opciones de [juegos de brocas y puntas para taladro en Mercado Libre](https://listado.mercadolibre.com.ar/juego-brocas-puntas-taladro).
 
 ## Errores comunes al comprar
 
@@ -81,9 +81,9 @@ Podés ver opciones de [juegos de brocas y puntas para taladro en Amazon](https:
 
 Para comparar modelos actuales, precios y opiniones reales, podés empezar por estas búsquedas:
 
-- [Taladros percutores inalámbricos 20V en Amazon](https://www.amazon.com/s?k=taladro+percutor+inalambrico+20v)
-- [Taladros atornilladores compactos 12V en Amazon](https://www.amazon.com/s?k=taladro+atornillador+inalambrico+12v)
-- [Kits de taladro brushless con dos baterías en Amazon](https://www.amazon.com/s?k=cordless+drill+brushless+kit+2+batteries)
+- [Taladros percutores inalámbricos 20V en Mercado Libre](https://listado.mercadolibre.com.ar/taladro-percutor-inalambrico-20v)
+- [Taladros atornilladores compactos 12V en Mercado Libre](https://listado.mercadolibre.com.ar/taladro-atornillador-inalambrico-12v)
+- [Kits de taladro brushless con dos baterías en Mercado Libre](https://listado.mercadolibre.com.ar/taladro-inalambrico-brushless-2-baterias)
 
 ## En resumen
 

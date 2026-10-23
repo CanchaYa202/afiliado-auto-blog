@@ -18,18 +18,33 @@ function parseFM(src) {
   return [fm, m[2]];
 }
 
-// Agrega el tag de afiliado a cualquier enlace de Amazon (dp/ o s?k=)
+// --- Afiliados ---
+// 1) data/ml-links.json: { "url original": "link de afiliado generado en el portal" } (prioridad máxima)
+// 2) Fallback Mercado Libre: agrega matt_tool/matt_word si mlAffiliateId está configurado y useParamFallback=true
+// 3) Amazon (secundario): agrega ?tag= solo si amazonTag está configurado y no es placeholder
+const ML = cfg.mercadolibre || {};
+const mlMap = fs.existsSync('data/ml-links.json') ? JSON.parse(fs.readFileSync('data/ml-links.json', 'utf8')) : {};
+const isSet = v => v && !/^PENDIENTE/i.test(v);
+const isML = u => /^https?:\/\/([a-z0-9-]+\.)*mercadolibre\.com(\.ar)?\//.test(u) || /^https?:\/\/meli\.la\//.test(u);
+const isAmazon = u => /^https?:\/\/(www\.)?amazon\.[a-z.]+\//.test(u);
+const isAffiliate = u => isML(u) || isAmazon(u);
 function tagUrl(u) {
-  if (!/^https?:\/\/(www\.)?amazon\.[a-z.]+\//.test(u)) return u;
-  const url = new URL(u); url.searchParams.set('tag', cfg.amazonTag); return url.toString();
+  if (mlMap[u]) return mlMap[u];
+  if (isML(u)) {
+    if (ML.useParamFallback && isSet(ML.mlAffiliateId) && !/meli\.la|\/sec\//.test(u)) {
+      const url = new URL(u); url.searchParams.set('matt_tool', ML.mlAffiliateId);
+      if (ML.mattWord) url.searchParams.set('matt_word', ML.mattWord); return url.toString();
+    }
+    return u;
+  }
+  if (isAmazon(u) && isSet(cfg.amazonTag)) { const url = new URL(u); url.searchParams.set('tag', cfg.amazonTag); return url.toString(); }
+  return u;
 }
-const isAmazon = u => /amazon\.[a-z.]+\//.test(u);
-
 function inline(t) {
   t = esc(t);
   t = t.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, txt, href) => {
     href = href.replace(/&amp;/g, '&');
-    const a = isAmazon(href);
+    const a = isAffiliate(href);
     return `<a href="${esc(tagUrl(href))}"${a ? ' rel="sponsored nofollow noopener" target="_blank"' : ''}>${txt}</a>`;
   });
   return t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>').replace(/\*([^*]+)\*/g, '<em>$1</em>');
@@ -53,7 +68,7 @@ function md(src) {
   flushP(); flushL(); return out.join('\n');
 }
 
-const DISCLOSURE = 'Como Asociado de Amazon gano con las compras que cumplen los requisitos. Esto no cambia el precio que pagás.';
+const DISCLOSURE = 'Este sitio puede recibir una comisión por compras realizadas a través de algunos enlaces, sin costo extra para vos.';
 const css = `body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:760px;margin:0 auto;padding:1rem 1.2rem;line-height:1.65;color:#1d1d1f;background:#fff}
 header a{color:inherit;text-decoration:none}header{border-bottom:1px solid #eee;margin-bottom:1.5rem}a{color:#0b63c5}
 .disc{background:#fff8e1;border:1px solid #f3d27a;padding:.6rem .9rem;border-radius:8px;font-size:.92rem}

@@ -74,9 +74,9 @@ Algunos auriculares se integran mejor con ciertos teléfonos: emparejamiento aut
 
 Para ver modelos actuales con opiniones de compradores reales:
 
-- [Auriculares inalámbricos con cancelación de ruido en Amazon](https://www.amazon.com/s?k=auriculares+inalambricos+cancelacion+de+ruido)
-- [Auriculares over-ear Bluetooth con ANC en Amazon](https://www.amazon.com/s?k=over+ear+bluetooth+headphones+noise+cancelling)
-- [Auriculares deportivos resistentes al sudor en Amazon](https://www.amazon.com/s?k=auriculares+deportivos+bluetooth+resistentes+al+sudor)
+- [Auriculares inalámbricos con cancelación de ruido en Mercado Libre](https://listado.mercadolibre.com.ar/auriculares-inalambricos-cancelacion-de-ruido)
+- [Auriculares over-ear Bluetooth con ANC en Mercado Libre](https://listado.mercadolibre.com.ar/auriculares-vincha-bluetooth-cancelacion-de-ruido)
+- [Auriculares deportivos resistentes al sudor en Mercado Libre](https://listado.mercadolibre.com.ar/auriculares-deportivos-bluetooth-resistentes-al-sudor)
 
 ## En resumen
 

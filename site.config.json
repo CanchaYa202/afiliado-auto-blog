@@ -4,5 +4,11 @@
   "url": "https://afiliado-auto-blog.vercel.app",
   "lang": "es",
   "author": "Nicolas Ferreyra",
-  "amazonTag": "PENDIENTE-20"
+  "amazonTag": "PENDIENTE-20",
+  "mercadolibre": {
+    "site": "mercadolibre.com.ar",
+    "mlAffiliateId": "PENDIENTE",
+    "mattWord": "blog",
+    "useParamFallback": true
+  }
 }
