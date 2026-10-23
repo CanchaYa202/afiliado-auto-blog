@@ -1,0 +1,1 @@
+{ "name": "afiliado-auto-blog", "private": true, "scripts": { "build": "node build.js" }, "engines": { "node": ">=18" } }
