@@ -154,7 +154,9 @@ function page({ title, description, canonical, body, type = 'website', image }) 
 <meta name="twitter:card" content="${image ? 'summary_large_image' : 'summary'}"><meta name="twitter:site" content="@cualconvieneAR"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(description)}"><meta name="twitter:image" content="${img}">
 <link rel="alternate" type="application/rss+xml" title="${BRAND}" href="${cfg.url}/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
-<style>${css}</style></head>
+<style>${css}</style>
+<script>window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };</script>
+<script defer src="/_vercel/insights/script.js"></script></head>
 <body><header class="top"><div class="wrap"><a class="brand" href="/"><img src="/img/logo.png" alt="" width="38" height="38">${BRAND}</a>
 <nav class="nav"><a href="/">Inicio</a><a href="/#guias">Guías</a><a class="hide-m" href="https://x.com/cualconvieneAR" rel="me noopener" target="_blank">Seguinos</a></nav></div></header>
 <main>${body}</main>
