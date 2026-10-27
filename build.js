@@ -80,7 +80,7 @@ function page({ title, description, canonical, body, type = 'website' }) {
 <meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:type" content="${type}"><meta property="og:url" content="${canonical}">
 <meta name="twitter:card" content="summary"><link rel="alternate" type="application/rss+xml" title="${esc(cfg.title)}" href="${cfg.url}/rss.xml"><style>${css}</style></head>
 <body><header><h2><a href="/">${esc(cfg.title)}</a></h2></header>${body}
-<footer><p>${esc(DISCLOSURE)}</p><p>© ${new Date().getFullYear()} ${esc(cfg.title)} · <a href="/rss.xml">RSS</a></p></footer></body></html>`;
+<footer><p>Seguinos: <a href="https://x.com/cualconvieneAR" rel="me noopener" target="_blank">X</a> · <a href="https://www.instagram.com/cualconvienear/" rel="me noopener" target="_blank">Instagram</a> · <a href="https://www.tiktok.com/@cualconvienear" rel="me noopener" target="_blank">TikTok</a></p><p>${esc(DISCLOSURE)}</p><p>© ${new Date().getFullYear()} ${esc(cfg.title)} · <a href="/rss.xml">RSS</a></p></footer></body></html>`;
 }
 
 fs.rmSync(OUT, { recursive: true, force: true }); fs.mkdirSync(OUT + '/posts', { recursive: true });
