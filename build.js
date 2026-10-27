@@ -106,3 +106,4 @@ fs.writeFileSync(`${OUT}/rss.xml`, `<?xml version="1.0" encoding="UTF-8"?>\n<rss
 fs.writeFileSync(`${OUT}/robots.txt`, `User-agent: *\nAllow: /\nSitemap: ${cfg.url}/sitemap.xml\n`);
 fs.writeFileSync(`${OUT}/posts.json`, JSON.stringify(posts.map(({ html, ...p }) => p), null, 1));
 console.log(`OK: ${posts.length} posts -> ${OUT}/`);
+if (fs.existsSync('public')) fs.cpSync('public', OUT, { recursive: true });
