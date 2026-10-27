@@ -47,7 +47,7 @@ Una forma simple de pensarlo:
 - **Uso intensivo** (varias horas por día durante todo el verano, o también para calefaccionar en invierno si es frío/calor): el inverter tiene más sentido, porque el ahorro se acumula.
 - **Uso ocasional** (un ambiente que usás poco, una casa de fin de semana, unos pocos días de mucho calor): el on/off puede ser la compra más razonable, porque quizá nunca llegues a compensar la diferencia de precio.
 
-Antes de decidir, compará precios de modelos equivalentes: [aires inverter](https://listado.mercadolibre.com.ar/aire-acondicionado-inverter) y [aires split on/off](https://listado.mercadolibre.com.ar/aire-acondicionado-split-on-off). Mirá también si hay cuotas sin interés o descuentos bancarios, que a veces achican mucho la diferencia.
+Antes de decidir, compará precios de modelos equivalentes: aires inverter y aires split on/off. Mirá también si hay cuotas sin interés o descuentos bancarios, que a veces achican mucho la diferencia.
 
 ## Cuántas frigorías necesitás
 
@@ -86,12 +86,17 @@ Más allá de inverter u on/off, chequeá esto en cada publicación:
 - **Ignorar el mantenimiento.** Limpiar los filtros con regularidad ayuda a que el equipo rinda y consuma lo esperado.
 - **Poner la temperatura muy baja.** Programarlo en valores razonables (alrededor de 24 °C es lo que suele recomendarse) baja bastante el consumo sin sacrificar confort.
 
+## Productos recomendados
+
+- [Aire acondicionado BGH Inverter 3000F frío/calor](https://meli.la/25BVQ51) — Precio al momento de publicar (27/10/2026): $849.999
+- [Aire Alaska split convencional frío/calor 2967 fg AS35WCCS](https://meli.la/1v5wU1F) — Precio al momento de publicar (27/10/2026): $902.948
+
 ## Entonces, ¿cuál conviene?
 
 > **Elegí inverter si:** lo vas a usar muchas horas por día, en el dormitorio o el home office, o también para calefaccionar en invierno. Pagás más al principio, pero ganás en consumo, silencio y confort.
 
 > **Elegí on/off si:** el uso va a ser ocasional, el presupuesto está ajustado o es para un ambiente que usás poco. Bien dimensionado y bien instalado, cumple perfectamente.
 
-Para la mayoría de los hogares que usan el aire todo el verano, el **inverter** es la compra que menos se lamenta a mediano plazo. Si querés ir directo a comparar, podés ver [aires acondicionados inverter frío/calor](https://listado.mercadolibre.com.ar/aire-acondicionado-inverter-frio-calor) o, si buscás una opción más económica, [aires split frío/calor convencionales](https://listado.mercadolibre.com.ar/aire-acondicionado-split-frio-calor). Filtrá por frigorías, tienda oficial y envío, y compará la etiqueta de eficiencia antes de decidir.
+Para la mayoría de los hogares que usan el aire todo el verano, el **inverter** es la compra que menos se lamenta a mediano plazo. Si querés ir directo a comparar, podés ver aires acondicionados inverter frío/calor o, si buscás una opción más económica, aires split frío/calor convencionales. Filtrá por frigorías, tienda oficial y envío, y compará la etiqueta de eficiencia antes de decidir.
 
 *Este sitio puede recibir una comisión por compras realizadas a través de algunos enlaces, sin costo extra para vos.*

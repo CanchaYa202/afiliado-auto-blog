@@ -9,6 +9,6 @@
     "site": "mercadolibre.com.ar",
     "mlAffiliateId":"59878850",
     "mattWord": "blog",
-    "useParamFallback": true
+    "useParamFallback": false
   }
 }

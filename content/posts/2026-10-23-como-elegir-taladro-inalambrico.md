@@ -62,7 +62,7 @@ Un taladro sin brocas adecuadas rinde la mitad. Lo mínimo:
 - **Tarugos y un nivel**, si vas a colgar estantes.
 - **Lentes de protección:** las virutas de metal y el polvo de ladrillo no perdonan.
 
-Podés ver opciones de [juegos de brocas y puntas para taladro en Mercado Libre](https://listado.mercadolibre.com.ar/juego-brocas-puntas-taladro).
+Podés ver opciones de juegos de brocas y puntas para taladro en Mercado Libre.
 
 ## Errores comunes al comprar
 
@@ -81,9 +81,10 @@ Podés ver opciones de [juegos de brocas y puntas para taladro en Mercado Libre]
 
 Para comparar modelos actuales, precios y opiniones reales, podés empezar por estas búsquedas:
 
-- [Taladros percutores inalámbricos 20V en Mercado Libre](https://listado.mercadolibre.com.ar/taladro-percutor-inalambrico-20v)
-- [Taladros atornilladores compactos 12V en Mercado Libre](https://listado.mercadolibre.com.ar/taladro-atornillador-inalambrico-12v)
-- [Kits de taladro brushless con dos baterías en Mercado Libre](https://listado.mercadolibre.com.ar/taladro-inalambrico-brushless-2-baterias)
+## Productos recomendados
+
+- [Taladro atornillador Bosch GSR 1000 Smart 12V](https://meli.la/2ozqgNQ) — Precio al momento de publicar (27/10/2026): $133.253
+- [Taladro percutor Dewalt DCD7781D2 20V brushless](https://meli.la/32yVot6) — Precio al momento de publicar (27/10/2026): $389.362
 
 ## En resumen
 

@@ -95,12 +95,17 @@ En los dos casos, la garantía y el service oficial en tu zona son un buen motiv
 - **No revisar la instalación eléctrica.** Un termotanque en una línea compartida y vieja puede hacer saltar la térmica o, peor, recalentar cables.
 - **Olvidarse del costo de instalación.** Sumá el gasista o el electricista al presupuesto antes de comparar precios de equipos.
 
+## Productos recomendados
+
+- [Calefón Longvie CN514SSG 14 L tiro natural](https://meli.la/2hjDgDX) — Precio al momento de publicar (27/10/2026): $590.466
+- [Termotanque eléctrico Ariston Pro1 R 80 L](https://meli.la/1xyJkvm) — Precio al momento de publicar (27/10/2026): $525.845
+
 ## Entonces, ¿cuál conviene?
 
 > **Elegí calefón a gas si:** tenés gas natural de red, hay lugar para la salida de gases, son varios en la casa y querés agua caliente sin límite. Elegí un modelo sin piloto permanente y con regulación de temperatura, y hacelo instalar por un gasista matriculado.
 
 > **Elegí termotanque eléctrico si:** no tenés gas natural, vivís en un departamento sin salida de gases, o son pocas personas y preferís una instalación más simple. Fijate en la capacidad según tu familia y en la etiqueta de eficiencia.
 
-Si ya tenés claro el tipo, podés comparar opciones en Mercado Libre: [termotanques eléctricos](https://listado.mercadolibre.com.ar/termotanque-electrico) o [calefones a gas](https://listado.mercadolibre.com.ar/calefon-gas). Si te sirve, también hay [termotanques a gas](https://listado.mercadolibre.com.ar/termotanque-a-gas), una alternativa intermedia para quien tiene gas pero prefiere acumular. Filtrá por capacidad, tienda oficial y envío, y revisá la garantía antes de decidir.
+Si ya tenés claro el tipo, podés comparar opciones en Mercado Libre: termotanques eléctricos o calefones a gas. Si te sirve, también hay termotanques a gas, una alternativa intermedia para quien tiene gas pero prefiere acumular. Filtrá por capacidad, tienda oficial y envío, y revisá la garantía antes de decidir.
 
 *Este sitio puede recibir una comisión por compras realizadas a través de algunos enlaces, sin costo extra para vos.*

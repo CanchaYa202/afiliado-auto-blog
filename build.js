@@ -20,10 +20,10 @@ function parseFM(src) {
 
 // --- Afiliados ---
 // 1) data/ml-links.json: { "url original": "link de afiliado generado en el portal" } (prioridad máxima)
-// 2) Fallback Mercado Libre: agrega matt_tool/matt_word si mlAffiliateId está configurado y useParamFallback=true
+// 2) Mercado Libre: los links oficiales del generador (meli.la) se usan sin modificar; no se agregan parámetros
 // 3) Amazon (secundario): agrega ?tag= solo si amazonTag está configurado y no es placeholder
 const ML = cfg.mercadolibre || {};
-const mlMap = fs.existsSync('data/ml-links.json') ? JSON.parse(fs.readFileSync('data/ml-links.json', 'utf8')) : {};
+const mlMap = {}; // data/ml-links.json es un registro de productos por post (no se reescriben URLs)
 const isSet = v => v && !/^PENDIENTE/i.test(v);
 const isML = u => /^https?:\/\/([a-z0-9-]+\.)*mercadolibre\.com(\.ar)?\//.test(u) || /^https?:\/\/meli\.la\//.test(u);
 const isAmazon = u => /^https?:\/\/(www\.)?amazon\.[a-z.]+\//.test(u);
@@ -31,11 +31,7 @@ const isAffiliate = u => isML(u) || isAmazon(u);
 function tagUrl(u) {
   if (mlMap[u]) return mlMap[u];
   if (isML(u)) {
-    if (ML.useParamFallback && isSet(ML.mlAffiliateId) && !/meli\.la|\/sec\//.test(u)) {
-      const url = new URL(u); url.searchParams.set('matt_tool', ML.mlAffiliateId);
-      if (ML.mattWord) url.searchParams.set('matt_word', ML.mattWord); return url.toString();
-    }
-    return u;
+    return u; // links oficiales (meli.la) se usan tal cual, sin parámetros agregados
   }
   if (isAmazon(u) && isSet(cfg.amazonTag)) { const url = new URL(u); url.searchParams.set('tag', cfg.amazonTag); return url.toString(); }
   return u;

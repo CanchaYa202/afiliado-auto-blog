@@ -30,8 +30,6 @@ Es una de las compras más grandes y donde un descuento real se nota más. Antes
 
 Fijate siempre el **modelo exacto de procesador**, la capacidad del SSD, si la RAM se puede ampliar, el sistema operativo incluido y el teclado (que tenga ñ, si te importa).
 
-- [Ver notebooks en Mercado Libre](https://listado.mercadolibre.com.ar/notebook)
-
 ### Smart TV
 
 Los televisores son un clásico de estas fechas. Lo que conviene definir antes:
@@ -41,25 +39,17 @@ Los televisores son un clásico de estas fechas. Lo que conviene definir antes:
 - **Sistema operativo y apps:** confirmá que tenga las plataformas que usás.
 - **Conexiones:** cantidad de entradas HDMI si vas a conectar consola, decodificador o barra de sonido.
 
-- [Ver smart TV 4K en Mercado Libre](https://listado.mercadolibre.com.ar/smart-tv-4k)
-
 ### Auriculares inalámbricos
 
 Son una compra frecuente y muy comparable. Revisá la **autonomía informada por el fabricante**, si tienen **cancelación activa de ruido** (útil para viajar o trabajar en lugares ruidosos), la resistencia al agua si los vas a usar para entrenar y la compatibilidad con tu celular. Si querés profundizar, tenemos una [guía de auriculares inalámbricos](/posts/mejores-auriculares-inalambricos-guia).
-
-- [Ver auriculares inalámbricos con cancelación de ruido en Mercado Libre](https://listado.mercadolibre.com.ar/auriculares-inalambricos-cancelacion-de-ruido)
 
 ### Monitores
 
 Si trabajás desde casa, sumar un monitor a la notebook es de las mejoras que más se notan en el día a día. Mirá el tamaño, la resolución, el tipo de panel y las entradas disponibles (HDMI, DisplayPort o USB-C) para asegurarte de que puedas conectarlo a tu equipo sin adaptadores.
 
-- [Ver monitores en Mercado Libre](https://listado.mercadolibre.com.ar/monitor)
-
 ### Discos SSD y almacenamiento
 
 Una compra chica que puede revivir una computadora lenta. Si tu notebook o PC todavía usa disco rígido mecánico, cambiarlo por un **SSD** suele ser la mejora con mejor relación costo-beneficio. Antes, confirmá qué formato admite tu equipo (por ejemplo, SATA de 2,5" o M.2) en el manual o la ficha del fabricante.
-
-- [Ver discos SSD en Mercado Libre](https://listado.mercadolibre.com.ar/disco-ssd)
 
 ## Lo que conviene pensar dos veces
 
@@ -68,7 +58,7 @@ Una compra chica que puede revivir una computadora lenta. Si tu notebook o PC to
 - **Gadgets que no estaban en tu lista:** si no lo necesitabas el jueves, probablemente tampoco lo necesitás el viernes.
 - **Combos con accesorios que no vas a usar:** compará el precio del producto solo contra el combo.
 
-Si buscás celular, compará siempre el mismo modelo y la misma versión de memoria entre publicaciones: [ver celulares liberados en Mercado Libre](https://listado.mercadolibre.com.ar/celular-liberado).
+Si buscás celular, compará siempre el mismo modelo y la misma versión de memoria entre publicaciones: ver celulares liberados en Mercado Libre.
 
 ## Cómo detectar una oferta real
 
@@ -99,6 +89,11 @@ No hay una respuesta única: depende de tu presupuesto y de la promoción concre
 > **Quiero mejorar el entretenimiento:** un smart TV del tamaño correcto para tu ambiente o unos buenos auriculares inalámbricos.
 
 > **Tengo una computadora lenta:** antes de reemplazarla, evaluá un SSD. Puede ser la compra más barata y efectiva de la lista.
+
+## Productos recomendados
+
+- [Smart TV Hisense 50A6N 50" 4K](https://meli.la/2nDihfV) — Precio al momento de publicar (27/10/2026): $679.999
+- [Notebook Lenovo IdeaPad Slim 3 Ryzen 5, 8 GB, 512 GB](https://meli.la/2A4jvwp) — Precio al momento de publicar (27/10/2026): $1.124.549
 
 ## En resumen
 

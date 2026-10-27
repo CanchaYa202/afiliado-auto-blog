@@ -27,31 +27,21 @@ Es la herramienta más útil para la casa y la que más se busca. Si todavía no
 
 Lo clave en la oferta: fijate si es **kit con batería y cargador** o "solo herramienta". Si querés profundizar, tenemos una [guía para elegir un taladro inalámbrico](/posts/como-elegir-taladro-inalambrico).
 
-- [Ver taladros percutores inalámbricos en Mercado Libre](https://listado.mercadolibre.com.ar/taladro-percutor-inalambrico)
-
 ### Atornillador inalámbrico compacto
 
 Si ya tenés taladro, un atornillador chico es un complemento muy práctico para armar muebles y hacer arreglos rápidos sin cargar con un equipo pesado. Suele ser una compra accesible y de uso muy frecuente.
-
-- [Ver atornilladores inalámbricos en Mercado Libre](https://listado.mercadolibre.com.ar/atornillador-inalambrico)
 
 ### Amoladora angular
 
 Sirve para cortar hierro, cerámica, caños y para desbastar o pulir. Para uso hogareño, una de **115 mm (4 1/2")** es la más manejable y la que tiene más discos disponibles. Si ya tenés baterías de una marca, una amoladora de la misma línea puede salir mucho más barata como "solo herramienta". Recordá sumar **protector, guantes y antiparras**: no es una herramienta para usar sin protección.
 
-- [Ver amoladoras angulares de 115 mm en Mercado Libre](https://listado.mercadolibre.com.ar/amoladora-angular-115-mm)
-
 ### Kit de herramientas manuales
 
 Destornilladores, llaves, pinzas, martillo, cinta métrica. Un buen kit evita comprar cada cosa por separado cuando hace falta. Mirá el **material** (acero al cromo vanadio es una referencia común en herramientas de mano) y que el estuche sea resistente, porque es lo primero que se rompe.
 
-- [Ver kits de herramientas manuales en Mercado Libre](https://listado.mercadolibre.com.ar/kit-herramientas-manuales)
-
 ### Combos con baterías extra
 
 Si ya tenés herramientas inalámbricas de una marca, un evento de descuentos es buen momento para sumar una **segunda batería** o un combo de dos herramientas que compartan batería. A mediano plazo es una de las formas más inteligentes de ahorrar.
-
-- [Ver combos de herramientas inalámbricas en Mercado Libre](https://listado.mercadolibre.com.ar/combo-herramientas-inalambricas)
 
 ## Cómo detectar una oferta real
 
@@ -95,9 +85,10 @@ No hay una respuesta única: depende de tu presupuesto y de la promoción concre
 
 Si vas a comprar una herramienta eléctrica, estos accesorios completan la compra:
 
-- [Juegos de brocas y puntas para taladro](https://listado.mercadolibre.com.ar/juego-brocas-puntas-taladro)
-- [Discos de corte para amoladora](https://listado.mercadolibre.com.ar/discos-corte-amoladora)
-- [Antiparras y lentes de protección](https://listado.mercadolibre.com.ar/lentes-proteccion-trabajo)
+## Productos recomendados
+
+- [Set de herramientas Stanley STMT7165 de 85 piezas](https://meli.la/21TEME4) — Precio al momento de publicar (27/10/2026): $259.000
+- [Amoladora Black & Decker G720 de 115 mm](https://meli.la/1QgAUPD) — Precio al momento de publicar (27/10/2026): $74.900
 
 ## En resumen
 
