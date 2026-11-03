@@ -23,8 +23,8 @@ El kit sin abono no sirve para navegar, así que cuando compares precios con otr
 
 Hoy hay dos equipos principales a la venta en el país:
 
-- **Kit Estándar V4:** pensado para instalaciones fijas (una casa, un campo, un local). Su valor oficial informado en octubre de 2026 era de **$499.999**.
-- **Kit Mini X:** la versión compacta y portátil. Su precio de lista en la tienda oficial venía siendo de **$219.000** desde la rebaja de agosto, frente a un valor habitual de $299.000.
+- **Kit Estándar V4:** pensado para instalaciones fijas (una casa, un campo, un local). En octubre de 2026 su valor oficial era de **$499.999**; hoy, 3/11/2026, la tienda oficial lo tiene a **$399.999** (20% OFF sobre ese precio de lista).
+- **Kit Mini X:** la versión compacta y portátil. En octubre venía saliendo **$219.000** en la tienda oficial desde la rebaja de agosto; hoy, 3/11/2026, está a **$186.150** (37% OFF sobre un precio de lista de $299.000).
 
 Los dos se consiguen en la tienda oficial de Starlink en Mercado Libre, en el sitio de Starlink y en cadenas como Frávega o Cetrogar, en general con cuotas sin interés según la tarjeta. Los precios cambian seguido, así que tomalos como referencia y revisá el valor del día antes de comprar.
 
@@ -89,8 +89,8 @@ En cambio, **probablemente no conviene** si:
 
 ## Productos recomendados
 
-- [Kit Starlink de Internet Vía Satélite Estándar V4](https://www.mercadolibre.com.ar/p/MLA38764114) — Revisá el precio actualizado y el vendedor en la publicación
-- [Kit de Internet Vía Satélite Starlink Mini X](https://www.mercadolibre.com.ar/p/MLA65276331) — Revisá el precio actualizado y el vendedor en la publicación
+- [Kit Starlink de Internet Vía Satélite Estándar V4](https://meli.la/17hKSR5) — $399.999 (lista $499.999, 20% OFF), Tienda oficial de Starlink, precio al 3/11/2026
+- [Kit de Internet Vía Satélite Starlink Mini X](https://meli.la/23642dN) — $186.150 (lista $299.000, 37% OFF), Tienda oficial de Starlink, precio al 3/11/2026
 
 Por qué estos dos: son los dos equipos que vende Starlink en Argentina, uno para cada tipo de uso. El **Estándar V4** es el que conviene para una instalación fija: más velocidad, router wifi 6 y cobertura para una casa grande. El **Mini X** es el que conviene para moverte: pesa alrededor de 1 kg, trae el router integrado y se alimenta con 12 V o una batería USB-C de 100 W.
 
