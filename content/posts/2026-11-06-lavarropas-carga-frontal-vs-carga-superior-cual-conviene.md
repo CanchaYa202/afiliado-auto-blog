@@ -57,7 +57,7 @@ Elegimos dos Drean nuevos, con stock al momento de publicar, para cubrir los dos
 
 Es un automático de **8 kg**, centrifugado hasta **1.200 rpm**, **34 programas**, display LED y funciones como carga autoadaptativa, autobalance, lavado rápido de 30 minutos, eco, extra enjuague e inicio diferido. No es inverter. En Mercado Libre aparece con muy buenas ventas (+5 mil) y calificación alta.
 
-Para quién: pareja o familia chica/mediana que prioriza menos agua, ropa más seca al sacar y la posibilidad de ubicar el equipo bajo mesada o en torre. Revisá vendedor (reputación verde o mejor), que sea **nuevo** y las condiciones de entrega: en la oferta verificada la entrega se acuerda con el vendedor.
+Para quién: pareja o familia chica/mediana que prioriza menos agua, ropa más seca al sacar y la posibilidad de ubicar el equipo bajo mesada o en torre. Revisá vendedor (reputación verde o mejor), que sea **nuevo** y las condiciones de entrega: en la oferta verificada la entrega se acuerda con el vendedor desde Grand Bourg (BA). **Ojo con el stock:** al 6/11/2026 la publicación verificada tenía solo **2 unidades**.
 
 ### Drean LPDR0680TB0: carga superior accesible
 
@@ -96,8 +96,8 @@ Para quién: 1 o 2 personas (o muy poca ropa semanal), lavadero donde no querés
 
 ## Productos recomendados
 
-- [Lavarropas carga superior Drean LPDR0680TB0 blanco, 6,5 kg](https://www.mercadolibre.com.ar/lavarropas-carga-superior-drean-lpdr0680tb0-corriente-domestica-blanco/p/MLA75668040) — Precio al momento de publicar (06/11/2026): $597.218, tienda oficial MercadoLíder Platinum
-- [Lavarropas carga frontal Drean Next 8.12 Eco blanco, 8 kg](https://www.mercadolibre.com.ar/lavarropas-carga-frontal-8-kg-blanco-drean-next-812-eco/p/MLA6348827) — Precio al momento de publicar (06/11/2026): $1.239.000, vendedor con reputación verde
+- [Lavarropas carga superior Drean LPDR0680TB0 blanco, 6,5 kg](https://meli.la/25qMvdr) — $597.218 (lista ~$710.974, 16% OFF), Oscar Barbieri SA (tienda oficial), precio al 6/11/2026
+- [Lavarropas carga frontal Drean Next 8.12 Eco blanco, 8 kg](https://meli.la/2KAYFNc) — $1.239.000, ELECTRONORTE-OUTLET SRL (reputación verde), precio al 6/11/2026 — **stock limitado: solo 2 unidades** al verificar; entrega a acordar con el vendedor desde Grand Bourg (BA)
 
 Por qué estos dos: el **LPDR0680TB0** es la opción superior accesible para 1–2 personas, con vendedor oficial; el **Next 8.12 Eco** es el frontal de 8 kg más vendido de esta comparación, con más capacidad y centrifugado más alto. Ninguno es inverter: si buscás motor inverter específicamente, filtrá esa tecnología en la ficha antes de pagar.
 
