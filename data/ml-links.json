@@ -215,5 +215,27 @@
       "stock": "2 unidades",
       "nota": "entrega a acordar con el vendedor desde Grand Bourg BA"
     }
+  ],
+  "como-verificar-descuento-mercado-libre-black-friday-real": [
+    {
+      "producto": "Auriculares inalámbricos Anker Soundcore P30i TWS ANC IP54",
+      "precio_07_11_2026": "$65.442",
+      "lista_07_11_2026": "$146.990",
+      "descuento": "55% OFF",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/auriculares-inalambricos-gamer-anker-soundcore-p30i-bluetooth-54-tws-anc-adaptativo-42db-graves-potentes-45h-bateria-estuche-2-en-1-soporte-para-celular-ip54/p/MLA38176139",
+      "seller": "Tienda oficial Anker (MercadoLíder Platinum)",
+      "stock": "50+"
+    },
+    {
+      "producto": "Auriculares inalámbricos Sony WH-CH720N Bluetooth negro",
+      "precio_07_11_2026": "$202.999",
+      "lista_07_11_2026": "$241.999",
+      "descuento": "16% OFF",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/auriculares-inalambricos-sony-wh-ch720n-bluetooth-negro/p/MLA23986875",
+      "seller": "Mercado Libre tienda oficial (MercadoLíder Platinum)",
+      "stock": "50+"
+    }
   ]
 }
