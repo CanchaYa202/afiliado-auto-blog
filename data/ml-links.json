@@ -237,5 +237,27 @@
       "seller": "Mercado Libre tienda oficial (MercadoLíder Platinum)",
       "stock": "50+"
     }
+  ],
+  "tablet-para-estudiar-o-trabajar-cual-conviene": [
+    {
+      "producto": "Tablet Xiaomi Redmi Pad 2 11\" 2.5K 8GB RAM 256GB Wi-Fi Graphite Gray",
+      "precio_08_11_2026": "$489.899",
+      "lista_08_11_2026": "$649.999",
+      "descuento": "24% OFF",
+      "url": "https://meli.la/2yTtcpP",
+      "pagina": "https://www.mercadolibre.com.ar/tablet-xiaomi-redmi-pad-2-11-25k-8gb-ram-256gb-ufs-wi-fi-graphite-gray/p/MLA55132338",
+      "seller": "Electro World Group (tienda oficial, MercadoLíder Platinum)",
+      "stock": "+10"
+    },
+    {
+      "producto": "Tablet Lenovo Idea Tab M11 Dimensity 6300 4GB RAM 128GB 11\" 2.5K Pen + Funda",
+      "precio_08_11_2026": "$494.554,50",
+      "lista_08_11_2026": "$804.001",
+      "descuento": "38% OFF",
+      "url": "https://meli.la/18CB1G2",
+      "pagina": "https://www.mercadolibre.com.ar/tablet-lenovo-idea-tab-m11-mediatek-dimensity-6300-4gb-ram-128gb-ufs-11-25k-pen-funda-grs-luna/p/MLA65629464",
+      "seller": "Compu Tools (tienda oficial, MercadoLíder Platinum)",
+      "stock": "última unidad"
+    }
   ]
 }
