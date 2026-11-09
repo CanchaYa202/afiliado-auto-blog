@@ -259,5 +259,27 @@
       "seller": "Compu Tools (tienda oficial, MercadoLíder Platinum)",
       "stock": "última unidad"
     }
+  ],
+  "aire-acondicionado-cuantas-frigorias-necesitas": [
+    {
+      "producto": "Aire acondicionado Samsung split frío/calor inverter 2580F",
+      "precio_09_11_2026": "$869.499",
+      "lista_09_11_2026": "$1.729.999",
+      "descuento": "49% OFF",
+      "url": "https://meli.la/2FGuBDW",
+      "pagina": "https://www.mercadolibre.com.ar/aire-acondicionado-samsung-split-friocalor-inverter-2580f/p/MLA60932288",
+      "seller": "Tienda oficial Samsung",
+      "stock": "+50"
+    },
+    {
+      "producto": "Aire acondicionado TCL split frío/calor inverter 4900 fg 5700 W TACA5700FCSD/TPRO",
+      "precio_09_11_2026": "$1.262.519",
+      "lista_09_11_2026": "$1.502.999",
+      "descuento": "16% OFF",
+      "url": "https://meli.la/2N1AWrA",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA53221580",
+      "seller": "Tienda oficial Oscar Barbieri SA",
+      "stock": "+50"
+    }
   ]
 }
