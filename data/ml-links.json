@@ -281,5 +281,25 @@
       "seller": "Tienda oficial Oscar Barbieri SA",
       "stock": "+50"
     }
+  ],
+  "monitor-para-trabajar-desde-casa-cual-conviene": [
+    {
+      "producto": "24 Essential Monitor Samsung S3 S30GD Full HD IPS 100 Hz",
+      "precio_10_11_2026": "$171.156",
+      "lista_10_11_2026": "$381.219",
+      "descuento": "55% OFF",
+      "url": "https://meli.la/2vKQZzT",
+      "pagina": "https://www.mercadolibre.com.ar/24-essential-monitor-s3-s30gd-full-hd-monitor-color-negro/p/MLA47329475",
+      "seller": "Acuario Insumos y Tecnologia (tienda oficial, MercadoLíder Platinum)",
+      "stock": "+50"
+    },
+    {
+      "producto": "Monitor LG 27MS500-B IPS 100 Hz Full HD 2x HDMI",
+      "precio_10_11_2026": "$327.436,40",
+      "url": "https://meli.la/1c6qAbd",
+      "pagina": "https://www.mercadolibre.com.ar/monitor-lg-27ms500-b-ips-100-hz-full-hd-hdmi-2x-pc-gamer-color-negro-110220-v/p/MLA41863403",
+      "seller": "XtremePC (tienda oficial, MercadoLíder Gold)",
+      "stock": "3"
+    }
   ]
 }
