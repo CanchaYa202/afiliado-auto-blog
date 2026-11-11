@@ -301,5 +301,27 @@
       "seller": "XtremePC (tienda oficial, MercadoLíder Gold)",
       "stock": "3"
     }
+  ],
+  "colchon-espuma-vs-resortes-pocket-cual-conviene": [
+    {
+      "producto": "Colchón Cannon Compac 2 Plazas 140x190x21 Cm En Caja Blanco/gris",
+      "precio_11_11_2026": "$368.599,03",
+      "lista_11_11_2026": "$890.358",
+      "descuento": "58% OFF",
+      "url": "https://meli.la/1vAJqhd",
+      "pagina": "https://www.mercadolibre.com.ar/colchon-cannon-compac-2-plazas-140x190x21-cm-en-caja-blancogris/p/MLA68660478",
+      "seller": "Colchones Cannon (tienda oficial, MercadoLíder Platinum)",
+      "stock": "+50"
+    },
+    {
+      "producto": "Colchón 2 Plazas Resortes Pocket 140x190 Fika-20cm",
+      "precio_11_11_2026": "$303.649,59",
+      "lista_11_11_2026": "$399.999",
+      "descuento": "24% OFF",
+      "url": "https://meli.la/2gNjHAz",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA63646365",
+      "seller": "FIKA (tienda oficial, MercadoLíder Platinum)",
+      "stock": "+50"
+    }
   ]
 }
