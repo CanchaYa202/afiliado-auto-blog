@@ -323,5 +323,25 @@
       "seller": "FIKA (tienda oficial, MercadoLíder Platinum)",
       "stock": "+50"
     }
+  ],
+  "sodastream-vs-sifon-drago-cual-conviene": [
+    {
+      "producto": "Máquina Para Hacer Soda Sodastream Terra Black Agua Gasificada Fácil",
+      "precio_12_11_2026": "$96.326",
+      "lista_12_11_2026": "$138.999",
+      "descuento": "30% OFF",
+      "url": "https://meli.la/2NU8ao4",
+      "pagina": "https://www.mercadolibre.com.ar/maquina-para-hacer-soda-sodastream-terra-black-agua-gasificada-facil/p/MLA24679134",
+      "seller": "Sodastream (tienda oficial, MercadoLíder Platinum)",
+      "stock": "+50"
+    },
+    {
+      "producto": "Sifon Drago Automatico 2 Litros Nuevo 0km + Capsula De Carga",
+      "precio_12_11_2026": "$245.000",
+      "url": "https://meli.la/2dcckUi",
+      "pagina": "https://www.mercadolibre.com.ar/sifon-drago-automatico-2-litros-nuevo-0km-capsula-de-carga/up/MLAU129379241",
+      "seller": "Masqueprecios (tienda oficial, MercadoLíder Platinum)",
+      "stock": "+50"
+    }
   ]
 }
