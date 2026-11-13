@@ -75,8 +75,8 @@ Con gas: usá regulador y manguera aprobados, verificá que no haya pérdidas co
 
 ## Productos recomendados
 
-- [Parrilla a gas Weber Spirit E-425, 4 quemadores con termómetro](https://www.mercadolibre.com.ar/weber-spirit-e-425-parrilla-de-gas-propano-liquido-para-/p/MLA2083302107) — $2.599.990 (antes $3.249.990, 20% OFF), vendedor TECWAVES (MercadoLíder Platinum), precio al 13/11/2026
-- [Parrilla a carbón Char-Griller Akorn Jr con tapa](https://www.mercadolibre.com.ar/parrilla-a-carbon-char-griller-akorn-jr-movil-gris-oscuro-con-tapa/p/MLA34819695) — $499.990 (antes $1.177.500, 57% OFF), vendedor TECWAVES (MercadoLíder Platinum), precio al 13/11/2026
+- [Parrilla a gas Weber Spirit E-425, 4 quemadores con termómetro](https://meli.la/2ym9eJw) — $2.599.990 (antes $3.249.990, 20% OFF), vendedor TECWAVES (MercadoLíder Platinum), precio al 13/11/2026
+- [Parrilla a carbón Char-Griller Akorn Jr con tapa](https://meli.la/2vzDb95) — $499.990 (antes $1.177.500, 57% OFF), vendedor TECWAVES (MercadoLíder Platinum), precio al 13/11/2026
 
 Por qué estas dos: son una de cada sistema, nuevas y de un vendedor MercadoLíder Platinum. La **Weber Spirit E-425** es una parrilla a gas grande, para quien cocina seguido y para varias personas: según la ficha tiene 4 quemadores, un área principal de cocción de 2.761 cm² (3.439 cm² contando la rejilla de calentado), rejillas de hierro fundido esmaltado, tapa con termómetro, ruedas, mesas laterales y depósito para grasa, con 6 meses de garantía de fábrica. Es una inversión alta, así que tiene sentido si la vas a usar mucho; la URL de la publicación indica que es para propano líquido, así que confirmá con el vendedor el tipo de gas y si incluye regulador antes de comprar. La **Char-Griller Akorn Jr** es la opción a carbón compacta y con tapa, tipo kamado: la ficha indica cuerpo de acero con triple pared, emparrillado de hierro fundido de unos 50 × 52 cm, doble regulador de aire, indicador de calor y 12 meses de garantía. Al momento de publicar quedaban pocas unidades de las dos. Revisá la ficha completa y el precio del día antes de comprar.
 
