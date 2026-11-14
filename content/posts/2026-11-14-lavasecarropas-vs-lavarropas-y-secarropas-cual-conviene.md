@@ -74,8 +74,8 @@ Si ya tenés lavarropas y estás dudando si cambiarlo, en general no tiene senti
 
 ## Productos recomendados
 
-- [Lavasecarropas Drean LSCDR1106I carga frontal inverter, 11 kg lavado / 6 kg secado](https://www.mercadolibre.com.ar/lavasecarropas-carga-frontal-inverter-11-kg-drean-lscdr1106i-color-inoxidable/p/MLA20950709) — Precio al momento de publicar (14/11/2026): consultalo en la publicación
-- [Secarropas centrífugo Drean QV 6.5, 6,5 kg](https://www.mercadolibre.com.ar/secarropas-drean-qv-65-centrifugo-65kg-blanco/p/MLA15242163) — Precio al momento de publicar (14/11/2026): consultalo en la publicación
+- [Lavasecarropas Drean LSCDR1106I carga frontal inverter, 11 kg lavado / 6 kg secado](https://meli.la/2djmiZ8) — $959.999 (antes $1.754.998,70, 45% OFF), tienda oficial Drean (MercadoLíder Platinum), precio al 14/11/2026
+- [Secarropas centrífugo Drean QV 6.5, 6,5 kg](https://meli.la/1hgwmSr) — $209.999 (antes $337.998,70, 37% OFF), tienda oficial Drean (MercadoLíder Platinum), precio al 14/11/2026
 
 Por qué estos dos: representan los dos caminos de esta guía. El **Drean LSCDR1106I** es un lavasecarropas para quien quiere un solo equipo: según la ficha de Drean, lava 11 kg y seca 6 kg (con secado por calor), tiene motor inverter, centrifugado regulable hasta 1.400 rpm, 14 programas (incluye lavado rápido de 15 minutos y función vapor), bloqueo para niños y mide 85 × 59,5 × 53 cm, con 1 año de garantía. Ojo con la capacidad: para secar, cargalo con hasta 6 kg. El **Drean QV 6.5** es el secarropas centrífugo para sumar a un lavarropas que ya tenés: 6,5 kg de capacidad, 2.800 rpm, tambor de acero inoxidable, motor de 320 W, cierre de seguridad en la tapa y 64 × 34 × 34 cm; recordá que deja la ropa húmeda para tender, no seca. Revisá el precio del día, el vendedor y la ficha completa antes de comprar.
 
