@@ -390,18 +390,22 @@
   ],
   "chromecast-vs-fire-tv-stick-vs-tv-box-cual-conviene": [
     {
-      "producto": "Xiaomi Tv Box S 3rd Gen 32gb 2gb (MDZ-32-AA, Google TV, 4K)",
-      "precio_15_11_2026": "no verificado en ML (página con captcha; referencia comparador: $182.500)",
-      "url": "ML_LINK_PENDING",
+      "descuento": "27% OFF",
+      "lista_15_11_2026": "$250.000",
       "pagina": "https://www.mercadolibre.com.ar/p/MLA56348232",
-      "seller": "a verificar al generar el link (MercadoLíder/tienda oficial, nuevo, con stock)"
+      "precio_15_11_2026": "$182.500",
+      "producto": "Xiaomi Tv Box S 3rd Gen 32gb 2gb (MDZ-32-AA, Google TV, 4K)",
+      "seller": "dobronxstore (MercadoLíder)",
+      "stock": "última unidad",
+      "url": "https://meli.la/2okKdZe"
     },
     {
-      "producto": "Amazon Fire Tv Stick 4k Select 8gb Control Con Alexa Negro De Voz",
-      "precio_15_11_2026": "no verificado en ML (página con captcha; referencia comparador: $59.328-$76.099)",
-      "url": "ML_LINK_PENDING",
       "pagina": "https://www.mercadolibre.com.ar/p/MLA62234964",
-      "seller": "a verificar al generar el link (MercadoLíder/tienda oficial, nuevo, con stock)"
+      "precio_15_11_2026": "$76.099",
+      "producto": "Amazon Fire Tv Stick 4k Select 8gb Control Con Alexa Negro De Voz",
+      "seller": "TECNEC SA (MercadoLíder Platinum)",
+      "stock": "+25",
+      "url": "https://meli.la/2XPQnQs"
     }
   ]
 }

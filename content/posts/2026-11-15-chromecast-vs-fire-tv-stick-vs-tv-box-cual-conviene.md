@@ -72,8 +72,8 @@ Si el wifi en el living es flojo, el dispositivo va a cortar o bajar la calidad.
 
 ## Productos recomendados
 
-- [Xiaomi TV Box S (3rd Gen) 4K, 32 GB, Google TV](https://www.mercadolibre.com.ar/p/MLA56348232) — Precio al momento de publicar (15/11/2026): consultalo en la publicación
-- [Amazon Fire TV Stick 4K Select, 8 GB, control con Alexa](https://www.mercadolibre.com.ar/p/MLA62234964) — Precio al momento de publicar (15/11/2026): consultalo en la publicación
+- [Xiaomi TV Box S (3rd Gen) 4K, 32 GB, Google TV](https://meli.la/2okKdZe) — $182.500 (antes $250.000, 27% OFF), dobronxstore (MercadoLíder), última unidad, precio al 15/11/2026
+- [Amazon Fire TV Stick 4K Select, 8 GB, control con Alexa](https://meli.la/2XPQnQs) — $76.099, TECNEC SA (MercadoLíder Platinum), precio al 15/11/2026
 
 Por qué estos dos: representan los dos caminos de esta guía. El **Xiaomi TV Box S (3rd Gen)** es nuestra recomendación principal para la mayoría: según la ficha de Xiaomi, tiene Google TV, salida 4K a 60 fps, procesador de cuatro núcleos de hasta 2,5 GHz, 2 GB de RAM y 32 GB de almacenamiento, Dolby Vision, HDR10+, Dolby Audio y DTS:X, wifi de doble banda, Bluetooth 5.2 y HDMI 2.1, y en la caja trae control remoto, fuente y cable HDMI. El **Fire TV Stick 4K Select** es la opción más económica en 4K para quien usa las apps grandes: stick HDMI con procesador de cuatro núcleos de 1,7 GHz, 1 GB de RAM, 8 GB de almacenamiento y control de voz con Alexa; recordá que usa Vega OS, solo instala apps de la Appstore de Amazon y no soporta Dolby Vision. Revisá el precio del día, el vendedor y la ficha completa antes de comprar.
 
