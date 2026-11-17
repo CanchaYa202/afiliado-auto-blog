@@ -79,8 +79,8 @@ La Switch 2 cuesta más del doble, aunque el bundle ya trae un juego y 3 meses d
 
 ## Productos recomendados
 
-- [Nintendo Switch 2 + Mario Kart World Bundle (256 GB)](https://www.mercadolibre.com.ar/nintendo-switch-2-mario-kart-world-bundle/p/MLA80242025) — Precio al momento de publicar (17/11/2026): $1.789.999, Tienda oficial Nintendo (MercadoLíder Platinum), +50 disponibles
-- [Nintendo Switch OLED 64 GB Standard color neón](https://www.mercadolibre.com.ar/nintendo-switch-oled-64gb-standard-color-neon/p/MLA18537258) — Precio al momento de publicar (17/11/2026): $799.914, Tienda oficial GAME SENSE (MercadoLíder Platinum), +5 disponibles
+- [Nintendo Switch 2 + Mario Kart World Bundle (256 GB)](https://meli.la/25rsXXb) — Precio al momento de publicar (17/11/2026): $1.789.999, Tienda oficial Nintendo (MercadoLíder Platinum), +50 disponibles
+- [Nintendo Switch OLED 64 GB Standard color neón](https://meli.la/21T758T) — Precio al momento de publicar (17/11/2026): $799.914, Tienda oficial GAME SENSE (MercadoLíder Platinum), +5 disponibles
 
 Por qué estas dos: son la versión más completa de cada consola y las dos se venden en tiendas oficiales MercadoLíder Platinum. El **bundle de Switch 2** lo vende la Tienda oficial de Nintendo; según la publicación incluye la consola, la descarga de Mario Kart World, un código de 3 meses de Nintendo Switch Online, Joy-Con 2 azul claro y rojo claro, dock, cable HDMI y adaptador de corriente, con 12 meses de garantía de fábrica. Al momento de publicar tenía calificación 5,0 con 21 opiniones. La **Switch OLED neón** (modelo HEG-001) trae dock, cable HDMI, agarre y correas para Joy-Con y adaptador de corriente, según la ficha, y al publicar tenía calificación 4,9 con más de 11.000 opiniones en el catálogo. Revisá el precio del día, el vendedor y la garantía antes de comprar.
 
