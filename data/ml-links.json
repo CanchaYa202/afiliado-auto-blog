@@ -443,5 +443,23 @@
       "seller": "Tienda oficial GAME SENSE (MercadoLíder Platinum)",
       "stock": "+5"
     }
+  ],
+  "hornito-electrico-cuantos-litros-y-cual-conviene": [
+    {
+      "producto": "Horno eléctrico Atma HGAB4523PI 45 L 1400 W con grill",
+      "precio_18_11_2026": "A_CONFIRMAR",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA27167036",
+      "seller": "A_CONFIRMAR",
+      "stock": "A_CONFIRMAR"
+    },
+    {
+      "producto": "Horno eléctrico Smartlife SL-TOR060PN 60 L con convección y spiedo",
+      "precio_18_11_2026": "A_CONFIRMAR",
+      "url": "ML_LINK_PENDING",
+      "pagina": "PAGINA_A_UBICAR (publicación 'Horno Electrico Smartlife Conveccion Spiedo 60L 6 Funciones', vendedor Smartlife)",
+      "seller": "A_CONFIRMAR",
+      "stock": "A_CONFIRMAR"
+    }
   ]
 }
