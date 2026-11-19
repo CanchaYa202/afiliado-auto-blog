@@ -461,5 +461,23 @@
       "seller": "EVS (MercadoLíder)",
       "stock": "+50"
     }
+  ],
+  "freezer-horizontal-vs-vertical-cual-conviene": [
+    {
+      "producto": "Freezer horizontal Gafa FGHI300B 280 L inverter 4 temperaturas blanco",
+      "precio_19_11_2026": "A_CONFIRMAR",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA20038040",
+      "seller": "A_CONFIRMAR",
+      "stock": "A_CONFIRMAR"
+    },
+    {
+      "producto": "Freezer vertical Midea 160 L blanco (FC-MJ6WAR1)",
+      "precio_19_11_2026": "A_CONFIRMAR",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA23435743",
+      "seller": "A_CONFIRMAR",
+      "stock": "A_CONFIRMAR"
+    }
   ]
 }
