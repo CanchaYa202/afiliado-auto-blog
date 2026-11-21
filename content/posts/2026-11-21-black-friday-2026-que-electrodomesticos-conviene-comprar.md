@@ -63,11 +63,13 @@ La **no frost** no junta escarcha y no hay que descongelarla; la **cíclica** su
 
 ## Los dos que recomendamos mirar
 
-Elegimos dos productos de **tienda oficial de Samsung** que ya analizamos en otras guías del sitio: uno para el calor que viene y otro para la cocina. Al momento de escribir esta nota no pudimos confirmar el precio del día directamente en Mercado Libre, así que **no publicamos precios**: revisalos en la publicación, que es donde valen.
+Elegimos dos productos que ya analizamos en otras guías del sitio: un aire inverter para el calor que viene y una heladera no frost. Los precios son de contado, sin cuotas. El "precio anterior" es el que **ML lo marca antes** en la publicación; no lo verificamos de forma independiente.
 
 ### Aire acondicionado Samsung split inverter 2580 fg frío/calor
 
 Es un split **inverter frío/calor de 2580 frigorías** (modelo AR40F12C0AM2BG), pensado para un dormitorio o un ambiente de tamaño normal. Según las fichas que consultamos, declara 3000 W de capacidad en frío y 3370 W en calor. Cuando lo analizamos el 9/11 tenía más de 1000 ventas y 4,8 de calificación. Ojo con la eficiencia: la publicación de Mercado Libre lo informaba como clase A y otras tiendas lo listan como A++; fijate en la etiqueta de la publicación. **No incluye instalación.**
+
+Está a **$868.670** al contado y ML lo marca antes a $1.055.999 (17% OFF). Lo vende la **Tienda oficial Mercado Libre**, con más de 50 unidades disponibles. La **Tienda oficial Samsung** también lo vende, a $929.999.
 
 Un dato útil para el Black Friday: según el historial de un rastreador de precios independiente, al 19/11 este modelo estaba en un precio que ya había tenido varias veces en los últimos meses. O sea, **si el viernes lo ves más barato que eso, es una baja real**; si lo ves igual con un "antes" muy alto, no lo es.
 
@@ -77,7 +79,7 @@ Un dato útil para el Black Friday: según el historial de un rastreador de prec
 
 Una **no frost con motor Digital Inverter** y sistema Twin Cooling Plus, que según la publicación enfría el refrigerador y el freezer por separado. La ficha indica **249 L de refrigerador y 72 L de freezer**, panel digital con 5 niveles de temperatura, alarma de puerta abierta, dispenser de agua y hielo de carga manual y estantes de vidrio templado. Mide **60 cm de ancho, 67,2 cm de profundidad y 1,715 m de alto**, y su clase energética es C. Si para vos pesa más el consumo o el tamaño del freezer, mirá la alternativa cíclica en [nuestra comparativa de heladeras](/posts/heladera-no-frost-vs-ciclica-cual-conviene).
 
-Aparece en muchas publicaciones con precios distintos: compará y confirmá la garantía antes de pagar.
+Está a **$1.439.249** al contado y ML lo marca antes a $1.514.999 (5% OFF): es un recorte modesto, no un descuento agresivo de Black Friday. A ese precio lo venden la **Tienda oficial Samsung** y **Vstore-Flex** (MercadoLíder Platinum). La **Tienda oficial NOVOGAR** lo tiene un poco más bajo, a $1.420.999 (ML lo marca antes a $1.799.999, 21% OFF). En las publicaciones que vimos quedaban **pocas unidades**. Compará y confirmá la garantía antes de pagar.
 
 [Ver la heladera Samsung RT32K5930SL en Mercado Libre](https://meli.la/2BmhoYx)
 
@@ -87,8 +89,8 @@ Si tenés que priorizar **una sola compra grande en este Black Friday**, que sea
 
 ## Productos recomendados
 
-- [Aire acondicionado Samsung split frío/calor inverter 2580 frigorías](https://meli.la/2FGuBDW) — Precio al momento de publicar (21/11/2026): a confirmar en la publicación · tienda oficial Samsung
-- [Heladera No Frost Samsung RT32K5930SL Inox 321 L con Digital Inverter](https://meli.la/2BmhoYx) — Precio al momento de publicar (21/11/2026): a confirmar en la publicación · tienda oficial Samsung
+- [Aire acondicionado Samsung split frío/calor inverter 2580 frigorías](https://meli.la/2FGuBDW) — Precio al momento de publicar (21/11/2026): $868.670 · ML lo marca antes a $1.055.999 (17% OFF) · vendedor Tienda oficial Mercado Libre
+- [Heladera No Frost Samsung RT32K5930SL Inox 321 L con Digital Inverter](https://meli.la/2BmhoYx) — Precio al momento de publicar (21/11/2026): $1.439.249 · ML lo marca antes a $1.514.999 (5% OFF) · vendedores Tienda oficial Samsung y Vstore-Flex (MercadoLíder Platinum)
 
 Por qué estos dos: son productos nuevos de tienda oficial, con muchas ventas y buena calificación cuando los analizamos, y cubren las dos compras grandes con más sentido para esta época. Antes de comprar, revisá el precio del día, el stock, la garantía y el costo de envío e instalación en la publicación.
 
