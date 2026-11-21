@@ -505,5 +505,23 @@
       "seller": "Tienda oficial TRENT (MercadoLíder Platinum)",
       "stock": "+50"
     }
+  ],
+  "black-friday-2026-que-electrodomesticos-conviene-comprar": [
+    {
+      "producto": "Aire acondicionado Samsung split frío/calor inverter 2580F (AR40F12C0AM2BG)",
+      "precio_21_11_2026": "a confirmar (ML pidió login/verificación al consultar)",
+      "url": "https://meli.la/2FGuBDW",
+      "pagina": "https://www.mercadolibre.com.ar/aire-acondicionado-samsung-split-friocalor-inverter-2580f/p/MLA60932288",
+      "seller": "Tienda oficial Samsung (según verificación del 09/11/2026)",
+      "stock": "a confirmar"
+    },
+    {
+      "producto": "Heladera No Frost Samsung RT32K5930SL Inox 321 L",
+      "precio_21_11_2026": "a confirmar (ML pidió login/verificación al consultar)",
+      "url": "https://meli.la/2BmhoYx",
+      "pagina": "https://www.mercadolibre.com.ar/heladera-no-frost-samsung-rt32k5930sl-silver-inox-321-l-color-plateado/p/MLA24515757",
+      "seller": "Tienda oficial Samsung (según verificación del 01/11/2026)",
+      "stock": "a confirmar"
+    }
   ]
 }
