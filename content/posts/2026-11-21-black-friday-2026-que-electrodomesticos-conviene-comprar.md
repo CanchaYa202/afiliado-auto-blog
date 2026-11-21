@@ -1,6 +1,6 @@
 ---
 title: "Black Friday 2026 en Argentina: qué electrodomésticos conviene comprar (heladera, lavarropas y aire)"
-description: "Black Friday 2026 es el viernes 27/11. Qué heladera, lavarropas o aire acondicionado conviene comprar, cómo detectar descuentos inflados y qué revisar antes de pagar."
+description: "Black Friday 2026 es el viernes 27/11. Qué heladera, lavarropas o aire conviene comprar, cómo detectar descuentos inflados y qué revisar antes de pagar."
 date: 2026-11-21
 tags: ["hogar", "guía de compra", "black friday", "electrodomésticos"]
 products: ["Heladera No Frost Samsung RT32K5930SL 321 L", "Aire acondicionado Samsung split inverter 2580 fg frío/calor"]
