@@ -8,11 +8,11 @@ products: ["Cámara TP-Link Tapo C200 (interior)", "Cámara TP-Link Tapo C500 (e
 
 Una **cámara de seguridad WiFi** te deja ver qué pasa en casa cuando no estás, recibir un aviso en el celular si alguien se mueve en el patio o hablarle a quien esté del otro lado. Y no hace falta contratar monitoreo ni tirar cables: se enchufa, se configura con una app y listo.
 
-El problema: en Mercado Libre hay cientos de modelos con fichas que prometen de todo. En esta guía te contamos **qué mirar de verdad** y comparamos dos de las más vendidas del país, ambas de **TP-Link (línea Tapo)**: la **Tapo C200** para interior y la **Tapo C500** para exterior.
+El problema: en Mercado Libre hay cientos de modelos con fichas que prometen de todo. En esta guía te contamos **qué mirar de verdad** y comparamos dos modelos de **TP-Link (línea Tapo)**: la **Tapo C200** para interior y la **Tapo C500** para exterior.
 
 ## La respuesta corta
 
-- **Si la querés para adentro** (living, cuarto del bebé, mascotas, local chico): la **Tapo C200** es la opción más lógica. Gira 360°, graba en Full HD y es la más barata de las dos.
+- **Si la querés para adentro** (living, cuarto del bebé, mascotas, local chico): la **Tapo C200** es la opción más lógica. Gira 360°, graba en Full HD y sale menos que la de exterior.
 - **Si la querés para afuera** (frente, patio, cochera, galería): andá directo a la **Tapo C500**. Tiene protección **IP65** contra agua y polvo, detección de personas y también gira.
 - **No pongas una cámara de interior afuera**, aunque sea bajo un alero: la humedad y la temperatura la terminan matando.
 
@@ -62,7 +62,7 @@ La detección de movimiento básica avisa por cualquier cosa: una rama, un gato,
 | Audio bidireccional | Sí | Sí |
 | Grabación | microSD (y nube) | microSD |
 | Asistentes | Alexa, Google | Alexa, Google |
-| Precio al 22/11/2026 | $49.299 | $59.999 |
+| Precio al 22/11/2026 | $49.199 | $59.999 |
 
 *Datos tomados de las publicaciones de Mercado Libre el 22/11/2026.*
 
@@ -76,19 +76,19 @@ En Mercado Libre tiene **más de 50 mil vendidos** y una calificación de **4,9 
 
 **En contra:** es **solo para interior** (no es resistente al agua) y la visión nocturna no es a color.
 
-Sobre el precio: al 22/11/2026 la mejor oferta estaba a **$49.299**, vendida por la **Tienda oficial GAUSSONLINE** (MercadoLíder Platinum), con stock disponible y envío gratis. ML la muestra "antes" a $82.339 (40% OFF), pero según un rastreador de precios independiente su precio habitual en los últimos meses rondó los $47.000-$48.000. O sea: **está a un precio normal, no en una ganga histórica**. Si querés chequear descuentos vos mismo, tenemos una guía sobre [cómo saber si un descuento de Mercado Libre es real](/posts/como-verificar-descuento-mercado-libre-black-friday-real).
+Sobre el precio: al 22/11/2026 estaba a **$49.199** en efectivo, vendida por la **Tienda oficial FIT BUNNY**, con envío Full y pocas unidades (quedaban 3). En la oferta principal ML no marca un precio anterior ni un % OFF. Según un rastreador de precios independiente, en los últimos meses rondó los $47.000-$48.000, así que **está en un nivel habitual, no en una ganga**. Si querés chequear descuentos vos mismo, tenemos una guía sobre [cómo saber si un descuento de Mercado Libre es real](/posts/como-verificar-descuento-mercado-libre-black-friday-real).
 
 ## Tapo C500: la de exterior calidad-precio
 
 La **Tapo C500** está pensada para afuera: tiene protección **IP65** contra agua y polvo y, según la ficha, soporta de **-30 °C a 60 °C**. Graba en **Full HD 1080p**, cubre **360° horizontal y 130° vertical** y tiene **detección de personas y seguimiento de movimiento con IA**: cuando detecta a alguien, gira para seguirlo. También tiene visión nocturna (la ficha indica que puede ser a color), audio bidireccional, grabación en **microSD** y compatibilidad con **Alexa y Google**. Trae anclajes, tornillos y un sello impermeable para las conexiones.
 
-En Mercado Libre figura como **1º en Kits de Seguridad**, con **más de 10 mil vendidos** y **4,8 sobre 5 con más de 31 mil opiniones**.
+En Mercado Libre tiene **más de 10 mil vendidos** y **4,8 sobre 5 con más de 31 mil opiniones**.
 
 **A favor:** apta para exterior, motorizada, filtra falsas alarmas con detección de personas, sin suscripción obligatoria.
 
 **En contra:** necesita enchufe cerca y buena señal WiFi donde la instales; la microSD va aparte.
 
-Sobre el precio: al 22/11/2026 estaba a **$59.999** en la **Tienda oficial Diprostore** (MercadoLíder Platinum), con stock y envío gratis. ML la marca antes a $86.539 (30% OFF). Según un rastreador independiente, su mínimo registrado fue de $57.999 y su precio típico de los últimos meses rondó los $71.500, así que **hoy está cerca de su piso**.
+Sobre el precio: al 22/11/2026 estaba a **$59.999** en efectivo en la **Tienda oficial Htvs**, con envío Full y más de 25 unidades en stock. ML lo marca antes a $86.539 (30% OFF). Según un rastreador independiente, su mínimo registrado fue de $57.999 y su precio típico de los últimos meses rondó los $71.500, así que **hoy está cerca de su piso**.
 
 ## ¿Cuál te conviene?
 
@@ -102,9 +102,9 @@ Si querés cubrir las dos cosas, podés poner **una C500 en el frente y una C200
 
 ## Productos recomendados
 
-- [Cámara TP-Link Tapo C200 WiFi interior Full HD 360°](https://www.mercadolibre.com.ar/tp-link-tapo-c200-camara-de-seguridad-wifi-interior-resolucion-fhd-cobertura-360-vision-nocturna-infrarroja-deteccion-de-movimiento-audio-bidireccional-y-alarma-app-tapo/p/MLA18593981) — Precio al momento de publicar (22/11/2026): $49.299 · ML lo marca antes a $82.339 (40% OFF) · vendedor Tienda oficial GAUSSONLINE (MercadoLíder Platinum)
-- [Cámara TP-Link Tapo C500 WiFi exterior IP65 Full HD 360°](https://www.mercadolibre.com.ar/camara-vigilancia-tp-link-tapo-c500-wifi-ip-para-exteriores-full-hd-1080p-deteccion-de-personas-y-seguimiento-de-movimiento-con-ia-rotacion-360/p/MLA23037572) — Precio al momento de publicar (22/11/2026): $59.999 · ML lo marca antes a $86.539 (30% OFF) · vendedor Tienda oficial Diprostore (MercadoLíder Platinum)
+- [Cámara TP-Link Tapo C200 WiFi interior Full HD 360°](https://meli.la/2pMLUoR) — Precio al momento de publicar (22/11/2026): $49.199 · vendedor Tienda oficial FIT BUNNY · envío Full · quedan 3 unidades
+- [Cámara TP-Link Tapo C500 WiFi exterior IP65 Full HD 360°](https://meli.la/1GDpE91) — Precio al momento de publicar (22/11/2026): $59.999 · ML lo marca antes a $86.539 (30% OFF) · vendedor Tienda oficial Htvs · envío Full · más de 25 unidades
 
-Por qué estas dos: son nuevas, de tienda oficial con vendedor MercadoLíder Platinum, de las más vendidas y mejor calificadas del rubro, y cubren los dos usos principales (interior y exterior). Antes de comprar, revisá el precio del día, el stock y la garantía en la publicación.
+Por qué estas dos: son de tienda oficial, están bien calificadas y cubren los dos usos principales (interior y exterior). Antes de comprar, revisá el precio del día, el stock y la garantía en la publicación.
 
 *Este sitio puede recibir una comisión por compras realizadas a través de algunos enlaces, sin costo extra para vos.*

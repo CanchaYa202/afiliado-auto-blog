@@ -531,19 +531,21 @@
   "camara-de-seguridad-wifi-para-casa-cual-conviene-comprar": [
     {
       "producto": "Cámara TP-Link Tapo C200 WiFi interior Full HD 360°",
-      "precio_22_11_2026": "$49.299",
-      "url": "ML_LINK_PENDING",
+      "precio_22_11_2026": "$49.199",
+      "url": "https://meli.la/2pMLUoR",
       "pagina": "https://www.mercadolibre.com.ar/tp-link-tapo-c200-camara-de-seguridad-wifi-interior-resolucion-fhd-cobertura-360-vision-nocturna-infrarroja-deteccion-de-movimiento-audio-bidireccional-y-alarma-app-tapo/p/MLA18593981",
-      "vendedor": "Tienda oficial GAUSSONLINE (MercadoLíder Platinum)",
-      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+      "seller": "Tienda oficial FIT BUNNY",
+      "stock": "3 unidades"
     },
     {
       "producto": "Cámara TP-Link Tapo C500 WiFi exterior IP65 Full HD 360°",
       "precio_22_11_2026": "$59.999",
-      "url": "ML_LINK_PENDING",
+      "url": "https://meli.la/1GDpE91",
       "pagina": "https://www.mercadolibre.com.ar/camara-vigilancia-tp-link-tapo-c500-wifi-ip-para-exteriores-full-hd-1080p-deteccion-de-personas-y-seguimiento-de-movimiento-con-ia-rotacion-360/p/MLA23037572",
-      "vendedor": "Tienda oficial Diprostore (MercadoLíder Platinum)",
-      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+      "seller": "Tienda oficial Htvs",
+      "stock": "+25",
+      "lista_22_11_2026": "$86.539",
+      "descuento": "30% OFF"
     }
   ]
 }
