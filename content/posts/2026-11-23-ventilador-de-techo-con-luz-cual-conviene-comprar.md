@@ -1,19 +1,19 @@
 ---
 title: "Ventilador de techo con luz: cuál conviene comprar (guía 2026)"
-description: "¿Qué ventilador de techo con luz comprar? Diámetro, palas, motor, control remoto, LED e instalación. Comparamos Indelplas IVT47 y Axel AX-VT4PL."
+description: "¿Qué ventilador de techo con luz comprar? Diámetro, palas, motor, control remoto, LED e instalación. Comparamos Indelplas IVT47 y un Axel de 4 palas metálicas con luz."
 date: 2026-11-23
 tags: ["hogar", "ventilación", "verano", "guía de compra"]
-products: ["Ventilador de techo Indelplas IVT47 con luz LED y control remoto", "Ventilador de techo Axel AX-VT4PL con plafón y 4 palas metálicas"]
+products: ["Ventilador de techo Indelplas IVT47 con luz LED y control remoto", "Ventilador de techo Axel de 4 palas metálicas con luz, 1,20 m"]
 ---
 
 El **ventilador de techo con luz** es de esas compras que se hacen una vez y duran años: refresca todo el ambiente sin ocupar lugar en el piso, consume mucho menos que un aire acondicionado y, de paso, te resuelve la iluminación de la habitación. Por eso, antes de que arranque el calor fuerte, conviene elegir bien.
 
-En Mercado Libre hay de todo: clásicos de palas metálicas, modelos "modernos" con control remoto, con plafón o con LED. En esta guía te contamos **qué mirar de verdad** y comparamos dos opciones bien distintas: el **Indelplas IVT47** (LED y control remoto) y el **Axel AX-VT4PL** (clásico de 4 palas metálicas con plafón).
+En Mercado Libre hay de todo: clásicos de palas metálicas, modelos "modernos" con control remoto, con plafón o con LED. En esta guía te contamos **qué mirar de verdad** y comparamos dos opciones bien distintas: el **Indelplas IVT47** (LED y control remoto) y un **Axel de 4 palas metálicas con luz, 1,20 m** (clásico con plafón).
 
 ## La respuesta corta
 
 - **Si querés comodidad y bajo consumo**: el **Indelplas IVT47**. Se maneja con control remoto (velocidad, luz y timer), tiene luz LED de 3 tonos y la ficha indica un motor de **30 W**.
-- **Si querés el clásico de toda la vida**: el **Axel AX-VT4PL**. Cuatro palas metálicas, 5 velocidades con llave de pared y un plafón para lámpara. Simple, robusto y sin pilas que se pierdan.
+- **Si querés el clásico de toda la vida**: el **Axel de 4 palas metálicas con luz**. Cuatro palas de metal, 5 velocidades con llave de pared y un plafón para lámpara. Simple, robusto y sin pilas que se pierdan.
 - **En los dos casos**: medí el ambiente y la altura del techo antes de comprar, y revisá qué tipo de techo tenés (losa o cielorraso) para la fijación.
 
 ## Qué mirar antes de comprar un ventilador de techo con luz
@@ -56,9 +56,9 @@ Los modelos con **plafón** llevan una lámpara común que comprás aparte (y ca
 - **Fijación**: el ventilador tiene que ir **anclado a la losa o a una estructura firme**, nunca colgado solo de un cielorraso de durlock.
 - **Electricista**: si no tenés experiencia, llamá a uno. Y siempre con la térmica cortada.
 
-## Indelplas IVT47 vs Axel AX-VT4PL: comparación rápida
+## Indelplas IVT47 vs Axel de 4 palas metálicas: comparación rápida
 
-| | Indelplas IVT47 | Axel AX-VT4PL |
+| | Indelplas IVT47 | Axel de 4 palas metálicas |
 |---|---|---|
 | Diámetro | 1,20 m (47") | 1,20 m |
 | Palas | 3, polímero reforzado | 4, metálicas |
@@ -68,6 +68,7 @@ Los modelos con **plafón** llevan una lámpara común que comprás aparte (y ca
 | Potencia del motor (ficha) | 30 W | 65 W |
 | Extras | Timer, aspas reversibles, modo invierno/verano | Doble rodamiento blindado, motor termoprotegido |
 | Garantía (según vendedores) | 1 año | 12 meses |
+| Precio al 23/11/2026 | $94.440 | $109.999 |
 
 *Datos tomados de las fichas del producto en Mercado Libre y de vendedores del fabricante, consultados el 23/11/2026. Antes de comprar, confirmá la ficha y la garantía en la publicación.*
 
@@ -77,15 +78,15 @@ El **Indelplas IVT47** es un ventilador de techo de **47 pulgadas (1,20 m)** con
 
 Como se controla todo desde el remoto, **solo necesita conexión eléctrica** en el techo, sin cableado aparte para la luz.
 
-En Mercado Libre figura con **más de 1.000 vendidos** y una calificación de **4,6 sobre 5**.
-
 **A favor:** control remoto con timer, bajo consumo según ficha, luz LED con tonos, instalación simple.
 
 **En contra:** las aspas plásticas no tienen la robustez de las metálicas, y si perdés el control remoto quedás limitado.
 
-## Axel AX-VT4PL: el clásico de palas metálicas
+Sobre el precio: al 23/11/2026 estaba a **$94.440** en efectivo, vendido por **INGETEC** (MercadoLíder, +1000 ventas), con stock disponible. ML lo marca antes a $99.411 (5% OFF): es un descuento chico, no una oferta fuerte.
 
-El **Axel AX-VT4PL** es el ventilador de techo de toda la vida, mejorado: **4 palas metálicas blancas**, **1,20 m de diámetro**, **5 velocidades** con regulador de **llave de pared** y **plafón** para lámpara. Según el fabricante, tiene **motor de 65 W** con **doble rodamiento blindado y termoprotegido**, y una velocidad máxima de **240 rpm**.
+## Axel de 4 palas metálicas: el clásico con luz
+
+El **Axel de 4 palas metálicas con luz, 1,20 m**, es el ventilador de techo de toda la vida, mejorado: **4 palas de metal blancas**, **5 velocidades** con regulador de **llave de pared** y **plafón** para una lámpara. Según la ficha, tiene **motor de 65 W** con **doble rodamiento blindado y termoprotegido**, y una velocidad máxima de **240 rpm**.
 
 Pesa alrededor de 6 kg, así que la fijación tiene que ser firme.
 
@@ -93,19 +94,21 @@ Pesa alrededor de 6 kg, así que la fijación tiene que ser firme.
 
 **En contra:** consume más que el Indelplas según ficha, no tiene control remoto y para manejar luz y motor por separado necesitás la instalación adecuada.
 
+Sobre el precio: al 23/11/2026 estaba a **$109.999** en efectivo en la **Tienda oficial EMV**, con stock disponible. En el precio de contado ML no marca un precio anterior ni un % OFF.
+
 ## ¿Cuál te conviene?
 
 > **Para el dormitorio, el Indelplas IVT47.** Poder bajar la velocidad o programar el apagado desde la cama hace la diferencia en las noches de calor, y gasta poco.
 
-> **Para el living, el comedor o si preferís lo simple, el Axel AX-VT4PL.** Cuatro palas metálicas, llave de pared y cero dependencia de pilas.
+> **Para el living, el comedor o si preferís lo simple, el Axel de 4 palas metálicas con luz.** Cuatro palas de metal, llave de pared y cero dependencia de pilas.
 
 Si el ambiente es muy grande o recibe mucho sol, un ventilador de techo puede quedarse corto: en ese caso mirá nuestra guía de [cuántas frigorías necesitás en un aire acondicionado](/posts/aire-acondicionado-cuantas-frigorias-necesitas). Y si no podés instalar nada en el techo (por ejemplo, si alquilás), tenés la comparativa de [ventilador de pie vs turbo](/posts/ventilador-de-pie-vs-turbo).
 
 ## Productos recomendados
 
-- [Ventilador de techo Indelplas IVT47 1,20 m con luz LED y control remoto](https://www.mercadolibre.com.ar/ventilador-de-techo-indelplas-47-pulgadas-negro-cantidad-de-aspas-3-diametro-120-cm-frecuencia-50-hz-material-de-las-aspas-polimero-reforzado/p/MLA41604276) — Consultá el precio actual en la publicación
-- [Ventilador de techo Axel AX-VT4PL 1,20 m con plafón y 4 palas metálicas](https://www.mercadolibre.com.ar/p/MLA11828901) — Consultá el precio actual en la publicación
+- [Ventilador de techo Indelplas IVT47 1,20 m con luz LED y control remoto](https://meli.la/2EVynSM) — Precio al momento de publicar (23/11/2026): $94.440 · ML lo marca antes a $99.411 (5% OFF, un descuento chico) · vendedor INGETEC (MercadoLíder) · stock disponible
+- [Ventilador de techo Axel de 4 palas metálicas con luz, 1,20 m](https://meli.la/1jWiw64) — Precio al momento de publicar (23/11/2026): $109.999 · sin descuento en contado · vendedor Tienda oficial EMV · stock disponible
 
-Por qué estos dos: cubren los dos estilos que más se buscan (moderno con control remoto y clásico de palas metálicas), tienen muchas ventas y buenas calificaciones. Antes de comprar, revisá el precio del día, el vendedor, el stock y la garantía en la publicación.
+Por qué estos dos: cubren los dos estilos que más se buscan (moderno con control remoto y clásico de palas metálicas). Antes de comprar, revisá el precio del día, el vendedor, el stock y la garantía en la publicación.
 
 *Este sitio puede recibir una comisión por compras realizadas a través de algunos enlaces, sin costo extra para vos.*
