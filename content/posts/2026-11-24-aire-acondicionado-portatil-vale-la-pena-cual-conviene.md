@@ -14,7 +14,7 @@ En esta guía te contamos **cuándo vale la pena y cuándo no**, qué mirar en l
 
 - **Vale la pena si** alquilás, no te dejan hacer agujeros en la pared, necesitás moverlo entre ambientes o querés climatizar **un solo cuarto** sin obra.
 - **No vale la pena si** podés instalar un split: por un precio parecido, un split enfría mejor, hace bastante menos ruido adentro (el compresor queda afuera) y en versión inverter gasta menos.
-- **Entre los dos de esta guía**: el **BGH** si priorizás la marca con service en el país y la mejor calificación; el **Surrey Smart** si querés manejarlo desde el celular o por voz.
+- **Entre los dos de esta guía**: el **BGH** si priorizás la marca con service en el país; el **Surrey Smart** si querés manejarlo desde el celular o por voz.
 
 ## Cómo funciona un aire portátil (y por qué no es un climatizador)
 
@@ -62,6 +62,7 @@ Todos traen un kit para fijar la salida de la manguera a la ventana. Funciona me
 | Wi-Fi | No | Sí: app Surrey Smart, Google Home y Alexa |
 | Funciones | Timer, sleep, deshumidificación, turbo, control remoto | Timer on/off, sleep, deshumidificación, control remoto |
 | Medidas / peso | 41 × 30 × 69,5 cm · 28,3 kg | 41 × 30 × 69,5 cm · 28,3 kg |
+| Precio al 24/11/2026 | $863.940 | $960.129 (Tienda oficial TIO MUSA) |
 
 *Datos de la ficha técnica del fabricante (Surrey) y de la ficha publicada por vendedores autorizados (BGH), consultados el 24/11/2026. Confirmá el modelo exacto y la garantía en la publicación antes de comprar.*
 
@@ -69,38 +70,42 @@ Todos traen un kit para fijar la salida de la manguera a la ventana. Funciona me
 
 El **BGH BP35WCEW** es un portátil frío/calor de **3500 W** de capacidad en frío, con gas **R-32**, control remoto, timer, función sleep, deshumidificación y modo turbo. Según la ficha, consume **1118 W** enfriando y el ruido declarado es de **53 / 52,5 / 51,5 dB(A)**.
 
-Su punto fuerte es el respaldo: BGH tiene **garantía y service oficial en Argentina**. En Mercado Libre tiene una calificación alta (alrededor de 4,8 sobre 5), y los compradores coinciden: enfría bien una habitación, no un living amplio, y hace ruido como todo portátil.
+Su punto fuerte es el respaldo: BGH tiene **garantía y service oficial en Argentina**. Como todo portátil, está pensado para una habitación, no para un living amplio, y hace ruido porque el compresor queda adentro.
 
-**A favor:** marca con service local, muy buena calificación, función turbo para enfriar rápido.
+**A favor:** marca con service local, función turbo para enfriar rápido.
 
 **En contra:** sin Wi-Fi, ruido típico de portátil, rinde para un ambiente chico o mediano.
+
+Sobre el precio: al 24/11/2026 estaba a **$863.940** en efectivo, vendido por **CENTRAL HOUSE_** (MercadoLíder), con stock disponible (pocas unidades). En el precio de contado ML no marca un precio anterior ni un % OFF.
 
 ## Surrey Smart Wi-Fi: para manejarlo desde el celular
 
 El **Surrey Portátil Smart R-32** (modelo **551PXQ12N81F** según el fabricante) tiene **3010 kcal/h** tanto en frío como en calor, gas **R-32**, deshumidificación, modo sleep y timer de encendido y apagado. La diferencia está en el control: se maneja con la **app Surrey Smart** y es compatible con **Google Home y Alexa**, así que lo podés prender antes de llegar a casa o por voz.
 
-Consume **1,16 kW** en frío según el fabricante, prácticamente lo mismo que el BGH. En Mercado Libre tiene menos opiniones que el BGH (y una calificación algo menor, alrededor de 4,6), algo lógico para un modelo más nuevo.
+Consume **1,16 kW** en frío según el fabricante, prácticamente lo mismo que el BGH.
 
 **A favor:** control por Wi-Fi y por voz, misma capacidad en frío y en calor.
 
-**En contra:** base de opiniones más chica, y el ruido no figura en la ficha del fabricante.
+**En contra:** el ruido no figura en la ficha del fabricante.
+
+Sobre el precio: al 24/11/2026, en la **Tienda oficial TIO MUSA** estaba a **$960.129** de contado. ML lo marca antes a $1.047.338 (8% OFF): es un descuento chico, no una oferta fuerte. En la misma página pueden aparecer otras tiendas oficiales con precios distintos; revisá la opción de mejor precio.
 
 ## Sobre el precio
 
-No pudimos confirmar el precio del día directamente en Mercado Libre al publicar esta guía. Como referencia, seguidores de precios de terceros registraban en noviembre de 2026 al BGH alrededor de **$802.500** y al Surrey Smart alrededor de **$744.930**. Con valores así, **un portátil cuesta lo mismo o más que un split on/off de 3000 frigorías** sin instalación: hacé la cuenta antes de decidir. Y si ves un "% OFF", fijate si el descuento es real (te explicamos cómo en [cómo verificar un descuento en Mercado Libre](/posts/como-verificar-descuento-mercado-libre-black-friday-real)).
+Al 24/11/2026, el BGH BP35WCEW estaba a **$863.940** de contado (sin descuento en el precio de efectivo) y el Surrey Smart, en la Tienda oficial TIO MUSA, a **$960.129** (ML lo marca antes a $1.047.338, 8% OFF: un descuento chico). Con estos valores, **un portátil cuesta lo mismo o más que un split on/off de 3000 frigorías** sin instalación: hacé la cuenta antes de decidir. En la página del Surrey pueden aparecer otras tiendas oficiales con precios distintos; revisá la opción de mejor precio. Y si ves un "% OFF", fijate si el descuento es real (te explicamos cómo en [cómo verificar un descuento en Mercado Libre](/posts/como-verificar-descuento-mercado-libre-black-friday-real)).
 
 ## ¿Cuál te conviene?
 
 > **Si podés instalar un split, andá por el split.** Enfría mejor y hace menos ruido. Mirá nuestra comparativa de [aire inverter vs on/off](/posts/aire-acondicionado-inverter-vs-on-off).
 
-> **Si no podés instalar nada y querés lo más seguro, el BGH BP35WCEW.** Marca con service en el país y la mejor calificación de los dos.
+> **Si no podés instalar nada y querés lo más seguro, el BGH BP35WCEW.** Marca con service en el país.
 
 > **Si te importa manejarlo desde el celular o por voz, el Surrey Smart Wi-Fi.** Mismo rendimiento en la práctica, con app y compatibilidad con Google Home y Alexa.
 
 ## Productos recomendados
 
-- [Aire acondicionado portátil BGH BP35WCEW frío/calor 3500 W](https://www.mercadolibre.com.ar/p/MLA61656125) — Precio al momento de publicar (24/11/2026): a confirmar en la publicación · revisá vendedor, stock y garantía
-- [Aire acondicionado portátil Surrey Smart Wi-Fi frío/calor 3010 kcal/h](https://www.mercadolibre.com.ar/p/MLA54689994) — Precio al momento de publicar (24/11/2026): a confirmar en la publicación · revisá vendedor, stock y garantía
+- [Aire acondicionado portátil BGH BP35WCEW frío/calor 3500 W](https://meli.la/2M3JFNy) — Precio al momento de publicar (24/11/2026): $863.940 · sin descuento en contado · vendedor CENTRAL HOUSE_ (MercadoLíder) · stock disponible (pocas unidades)
+- [Aire acondicionado portátil Surrey Smart Wi-Fi frío/calor 3010 kcal/h](https://meli.la/2piEHEa) — Precio al momento de publicar (24/11/2026): $960.129 en Tienda oficial TIO MUSA · ML lo marca antes a $1.047.338 (8% OFF, un descuento chico) · en la página pueden aparecer otras tiendas oficiales con precios distintos; revisá la opción de mejor precio
 
 Por qué estos dos: portátiles frío/calor de unas 3000 frigorías con R-32, de marcas con presencia en el país, que cubren los dos perfiles más buscados (respaldo de marca o control por app).
 

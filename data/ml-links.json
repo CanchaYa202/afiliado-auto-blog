@@ -571,19 +571,22 @@
   "aire-acondicionado-portatil-vale-la-pena-cual-conviene": [
     {
       "producto": "Aire acondicionado portátil BGH BP35WCEW frío/calor 3500 W",
-      "precio_24_11_2026": "sin confirmar (ML bloqueó la consulta; referencia de terceros $802.500 al 11/11)",
-      "url": "ML_LINK_PENDING",
+      "precio_24_11_2026": "$863.940",
+      "url": "https://meli.la/2M3JFNy",
       "pagina": "https://www.mercadolibre.com.ar/p/MLA61656125",
-      "vendedor": "sin confirmar (verificar MercadoLíder/tienda oficial)",
-      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+      "seller": "CENTRAL HOUSE_ (MercadoLíder)",
+      "stock": "disponible (pocas unidades)"
     },
     {
       "producto": "Aire acondicionado portátil Surrey Smart Wi-Fi frío/calor 3010 kcal/h (551PXQ12N81F)",
-      "precio_24_11_2026": "sin confirmar (ML bloqueó la consulta; referencia de terceros $744.930 al 24/11)",
-      "url": "ML_LINK_PENDING",
+      "precio_24_11_2026": "$960.129",
+      "url": "https://meli.la/2piEHEa",
       "pagina": "https://www.mercadolibre.com.ar/p/MLA54689994",
-      "vendedor": "sin confirmar (verificar MercadoLíder/tienda oficial)",
-      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+      "seller": "Tienda oficial TIO MUSA",
+      "stock": "disponible",
+      "lista_24_11_2026": "$1.047.338",
+      "descuento": "8% OFF",
+      "nota": "El link lleva a la página de catálogo. Precio y vendedor corresponden a la opción de Tienda oficial TIO MUSA. En la misma página pueden aparecer otras tiendas oficiales con precios distintos; revisar la opción de mejor precio. No se incluye un precio menor no confirmado."
     }
   ]
 }
