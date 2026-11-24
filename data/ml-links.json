@@ -567,5 +567,23 @@
       "seller": "Tienda oficial EMV",
       "stock": "disponible"
     }
+  ],
+  "aire-acondicionado-portatil-vale-la-pena-cual-conviene": [
+    {
+      "producto": "Aire acondicionado portátil BGH BP35WCEW frío/calor 3500 W",
+      "precio_24_11_2026": "sin confirmar (ML bloqueó la consulta; referencia de terceros $802.500 al 11/11)",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA61656125",
+      "vendedor": "sin confirmar (verificar MercadoLíder/tienda oficial)",
+      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+    },
+    {
+      "producto": "Aire acondicionado portátil Surrey Smart Wi-Fi frío/calor 3010 kcal/h (551PXQ12N81F)",
+      "precio_24_11_2026": "sin confirmar (ML bloqueó la consulta; referencia de terceros $744.930 al 24/11)",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA54689994",
+      "vendedor": "sin confirmar (verificar MercadoLíder/tienda oficial)",
+      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+    }
   ]
 }
