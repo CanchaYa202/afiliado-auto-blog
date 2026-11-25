@@ -588,5 +588,23 @@
       "descuento": "8% OFF",
       "nota": "El link lleva a la página de catálogo. Precio y vendedor corresponden a la opción de Tienda oficial TIO MUSA. En la misma página pueden aparecer otras tiendas oficiales con precios distintos; revisar la opción de mejor precio. No se incluye un precio menor no confirmado."
     }
+  ],
+  "cortadora-de-cesped-electrica-cual-conviene-comprar": [
+    {
+      "producto": "Cortadora de césped eléctrica Gamma G4950 1200 W, 32 cm, bolsa 25 L",
+      "precio_25_11_2026": "sin confirmar (ML bloqueó la consulta; referencia de terceros $259.990 al 19/11)",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA46949841",
+      "vendedor": "sin confirmar (verificar MercadoLíder/tienda oficial)",
+      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+    },
+    {
+      "producto": "Cortadora de césped eléctrica Lüsqtoff LCO-1640B 1600 W, 40 cm, bolsa 40 L",
+      "precio_25_11_2026": "sin confirmar (ML bloqueó la consulta; referencia de terceros $482.399 al 19/11; PVP fabricante $293.599)",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA15257170",
+      "vendedor": "sin confirmar (verificar MercadoLíder/tienda oficial)",
+      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+    }
   ]
 }
