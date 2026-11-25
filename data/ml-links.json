@@ -592,19 +592,21 @@
   "cortadora-de-cesped-electrica-cual-conviene-comprar": [
     {
       "producto": "Cortadora de césped eléctrica Gamma G4950 1200 W, 32 cm, bolsa 25 L",
-      "precio_25_11_2026": "sin confirmar (ML bloqueó la consulta; referencia de terceros $259.990 al 19/11)",
-      "url": "ML_LINK_PENDING",
+      "precio_25_11_2026": "$259.990",
+      "url": "https://meli.la/2d6wcfd",
       "pagina": "https://www.mercadolibre.com.ar/p/MLA46949841",
-      "vendedor": "sin confirmar (verificar MercadoLíder/tienda oficial)",
-      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+      "seller": "Tienda oficial VAGOLNET",
+      "stock": "disponible",
+      "nota": "Nuevo. Sin descuento visible en el precio de contado."
     },
     {
-      "producto": "Cortadora de césped eléctrica Lüsqtoff LCO-1640B 1600 W, 40 cm, bolsa 40 L",
-      "precio_25_11_2026": "sin confirmar (ML bloqueó la consulta; referencia de terceros $482.399 al 19/11; PVP fabricante $293.599)",
-      "url": "ML_LINK_PENDING",
-      "pagina": "https://www.mercadolibre.com.ar/p/MLA15257170",
-      "vendedor": "sin confirmar (verificar MercadoLíder/tienda oficial)",
-      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+      "producto": "Cortadora de césped eléctrica Lüsqtoff LCO1637-8B 1600 W, 37 cm, bolsa 40 L",
+      "precio_25_11_2026": "$424.399",
+      "url": "https://meli.la/2gLMVFV",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA60839832",
+      "seller": "Tienda oficial Pinturerias MM",
+      "stock": "disponible (pocas unidades)",
+      "nota": "Reemplaza a la Lüsqtoff LCO-1640B, que no tenía stock en Mercado Libre al 25/11/2026. Nuevo. Sin descuento visible en el precio de contado. Ficha: motor 2,1 HP, 220 V, 3500 RPM, 7 posiciones de altura, indicador de bolsa llena, 16,3 kg, ruedas 14 cm adelante y 20 cm atrás, obturador de mantillo, clips y gancho para el cable. La ficha no informa el largo del cable ni valores confiables en mm de altura de corte."
     }
   ]
 }
