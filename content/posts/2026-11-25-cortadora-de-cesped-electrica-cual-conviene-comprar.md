@@ -91,7 +91,7 @@ Al 25/11/2026 no pudimos confirmar el precio de contado, el vendedor ni el stock
 
 > **Si tu jardín es chico o mediano y lo cortás seguido, la Gamma G4950.** Liviana, simple y suficiente.
 
-> **Si tu jardín es grande o el pasto te crece rápido, la Lüsqtoff LCO-1640B.** Más ancho de corte y el doble de bolsa que otras de su rango: menos pasadas y menos paradas.
+> **Si tu jardín es grande o el pasto te crece rápido, la Lüsqtoff LCO-1640B.** Más ancho de corte (40 vs 32 cm) y más bolsa (40 vs 25 litros): menos pasadas y menos paradas.
 
 > **Para el resto del jardín**, sumá una [hidrolavadora para casa](/posts/hidrolavadora-para-casa-cual-conviene-comprar) para veredas y patios.
 
