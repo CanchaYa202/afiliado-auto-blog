@@ -608,5 +608,26 @@
       "stock": "disponible (pocas unidades)",
       "nota": "Reemplaza a la Lüsqtoff LCO-1640B, que no tenía stock en Mercado Libre al 25/11/2026. Nuevo. Sin descuento visible en el precio de contado. Ficha: motor 2,1 HP, 220 V, 3500 RPM, 7 posiciones de altura, indicador de bolsa llena, 16,3 kg, ruedas 14 cm adelante y 20 cm atrás, obturador de mantillo, clips y gancho para el cable. La ficha no informa el largo del cable ni valores confiables en mm de altura de corte."
     }
+  ],
+  "soldadora-inverter-para-aficionados-cual-conviene-comprar": [
+    {
+      "producto": "Soldadora inverter Gamma ARC 130 G3469ARA 10-120 A, electrodo",
+      "precio_26_11_2026": "$112.838 (antes $150.000, 24% OFF) — visto en la tarjeta del producto en un clip de ML (oferta MLA1409168800), sin confirmar en la página del producto (ML bloqueó la consulta con verificación de cuenta)",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA19710645",
+      "vendedor": "WADENTOOLS (sin confirmar reputación MercadoLíder/tienda oficial)",
+      "stock": "sin confirmar",
+      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+    },
+    {
+      "producto": "Soldadora inverter dual Lüsqtoff SML120-8DK (flux/MMA/lift TIG) + amoladora angular 115 mm 720 W",
+      "precio_26_11_2026": "$317.643 (antes $453.776, 30% OFF) — visto en la tarjeta del producto en un clip de ML (oferta MLA3943722580), sin confirmar en la página del producto (ML bloqueó la consulta con verificación de cuenta)",
+      "url": "ML_LINK_PENDING",
+      "pagina": "https://www.mercadolibre.com.ar/p/MLA79272066",
+      "vendedor": "CENTRALDEHERRAMIENTAS (sin confirmar reputación MercadoLíder/tienda oficial)",
+      "stock": "sin confirmar",
+      "nota": "La publicación de catálogo es un combo con amoladora. PVP fabricante de la SML120-8DK sola: $289.899.",
+      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+    }
   ]
 }
