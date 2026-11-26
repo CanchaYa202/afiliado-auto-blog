@@ -84,7 +84,7 @@ Soldadora **inverter de tres procesos** de Lüsqtoff: alambre flux (MIG sin gas)
 
 ## Sobre el precio
 
-Al 26/11/2026, en Mercado Libre vimos la Gamma ARC 130 G3469ARA a **$112.838** (antes $150.000, 24 % OFF, vendedor WADENTOOLS) y la Lüsqtoff SML120-8DK en una publicación de catálogo que **suma una amoladora angular de 115 mm** a **$317.643** (antes $453.776, 30 % OFF, vendedor Central de Herramientas). Precios al momento de publicar: en la misma página puede haber otros vendedores con precios distintos, así que fijate el vendedor (MercadoLíder o tienda oficial) antes de comprar. Si ves un "% OFF", revisá si es real (te explicamos cómo en [cómo verificar un descuento en Mercado Libre](/posts/como-verificar-descuento-mercado-libre-black-friday-real)).
+Al 26/11/2026, en Mercado Libre la Gamma ARC 130 G3469ARA estaba a **$112.838** de contado en la Tienda oficial DEL ABASTO (ML la marca antes a $150.000, 24 % OFF) y la Lüsqtoff SML120-8DK, en un combo que **suma una amoladora angular de 115 mm y 720 W**, a **$317.643** de contado en la Tienda oficial Central de herramientas (ML la marca antes a $453.776, 30 % OFF). Precios al momento de publicar: en la misma página puede haber otros vendedores con precios distintos, así que fijate el vendedor (tienda oficial o MercadoLíder) antes de comprar. Si ves un "% OFF", revisá si es real (te explicamos cómo en [cómo verificar un descuento en Mercado Libre](/posts/como-verificar-descuento-mercado-libre-black-friday-real)).
 
 ## No te olvides de la seguridad
 
@@ -100,7 +100,7 @@ Soldar sin protección no es opción: **máscara para soldar** (la fotosensible 
 
 ## Productos recomendados
 
-- [Soldadora inverter Gamma ARC 130 G3469ARA 10–120 A, electrodo](https://www.mercadolibre.com.ar/p/MLA19710645) — Precio al momento de publicar (26/11/2026): $112.838 · vendedor WADENTOOLS · stock a confirmar en la publicación
-- [Soldadora inverter dual Lüsqtoff SML120-8DK (flux, electrodo y lift TIG) + amoladora 115 mm](https://www.mercadolibre.com.ar/p/MLA79272066) — Precio al momento de publicar (26/11/2026): $317.643 · vendedor Central de Herramientas · stock a confirmar en la publicación
+- [Soldadora inverter Gamma ARC 130 G3469ARA 10–120 A, electrodo](https://meli.la/2hNUas6) — Precio al momento de publicar (26/11/2026): $112.838 de contado · ML la marca antes a $150.000 (24 % OFF) · Tienda oficial DEL ABASTO · stock disponible
+- [Soldadora inverter dual Lüsqtoff SML120-8DK (flux, electrodo y lift TIG) + amoladora 115 mm y 720 W](https://meli.la/229kA3a) — Precio al momento de publicar (26/11/2026): $317.643 de contado · ML la marca antes a $453.776 (30 % OFF) · Tienda oficial Central de herramientas · stock disponible
 
 *Este sitio puede recibir una comisión por compras realizadas a través de algunos enlaces, sin costo extra para vos.*
