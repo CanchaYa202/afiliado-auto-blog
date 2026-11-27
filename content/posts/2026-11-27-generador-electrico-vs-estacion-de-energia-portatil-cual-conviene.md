@@ -86,7 +86,7 @@ Generador **inverter a nafta** de Lüsqtoff. Según la ficha de la publicación:
 
 ## Sobre el precio
 
-Al 27/11/2026, en Mercado Libre el **Lüsqtoff LGI2.5-8** estaba a **$634.524** de contado en la Tienda oficial GRAMABI (ML lo marca antes a $921.873, 31 % OFF), con pocas unidades disponibles. La **EcoFlow River 2 Pro** estaba a **$1.501.211** de contado en la Tienda oficial KU ROA ECOMMERCE (ML la marca antes a $1.581.888, 5 % OFF). Son precios al momento de publicar y en la misma página puede haber otros vendedores: fijate que sea tienda oficial o MercadoLíder. Si ves un "% OFF" muy grande, revisá si es real con nuestra guía de [cómo verificar un descuento en Mercado Libre](/posts/como-verificar-descuento-mercado-libre-black-friday-real).
+Al 27/11/2026, en Mercado Libre el **Lüsqtoff LGI2.5-8** estaba a **$634.524** de contado en la Tienda oficial GRAMABI (ML lo marca antes a $921.873,75, 31 % OFF). La **EcoFlow River 2 Pro** estaba a **$1.501.211** de contado en la Tienda oficial KU ROA ECOMMERCE (ML la marca antes a $1.581.888, 5 % OFF). Son precios al momento de publicar y en la misma página puede haber otros vendedores: fijate que sea tienda oficial o MercadoLíder. Si ves un "% OFF" muy grande, revisá si es real con nuestra guía de [cómo verificar un descuento en Mercado Libre](/posts/como-verificar-descuento-mercado-libre-black-friday-real).
 
 ## ¿Cuál te conviene?
 
@@ -96,7 +96,7 @@ Al 27/11/2026, en Mercado Libre el **Lüsqtoff LGI2.5-8** estaba a **$634.524** 
 
 ## Productos recomendados
 
-- [Generador inverter Lüsqtoff LGI2.5-8 2500 W, 208 cc, nafta](https://www.mercadolibre.com.ar/grupo-electrogeno-lusqtoff-lgi25-8-generador-inverter-2500w-208cc/p/MLA61283446) — Precio al momento de publicar (27/11/2026): $634.524 de contado · ML lo marca antes a $921.873 (31 % OFF) · Tienda oficial GRAMABI · últimas unidades
-- [Estación de energía portátil EcoFlow River 2 Pro 768 Wh, 800 W (X-Boost 1600 W)](https://www.mercadolibre.com.ar/ecoflow-river-2-pro-estacion-de-energia-portatil-768wh-800w-x-boost-1600w-bateria-carga-rapida-70-minutos-solar-220w-220v-ups-eps-camping-hogar/p/MLA37963538) — Precio al momento de publicar (27/11/2026): $1.501.211 de contado · ML la marca antes a $1.581.888 (5 % OFF) · Tienda oficial KU ROA ECOMMERCE · stock disponible
+- [Generador inverter Lüsqtoff LGI2.5-8 2500 W, 208 cc, nafta](https://meli.la/2GFuoyF) — Precio al momento de publicar (27/11/2026): $634.524 de contado · ML lo marca antes a $921.873,75 (31 % OFF) · Tienda oficial GRAMABI · stock disponible
+- [Estación de energía portátil EcoFlow River 2 Pro 768 Wh, 800 W (X-Boost 1600 W)](https://meli.la/2QLgA5F) — Precio al momento de publicar (27/11/2026): $1.501.211 de contado · ML la marca antes a $1.581.888 (5 % OFF) · Tienda oficial KU ROA ECOMMERCE · stock disponible
 
 *Este sitio puede recibir una comisión por compras realizadas a través de algunos enlaces, sin costo extra para vos.*

@@ -637,26 +637,24 @@
     {
       "producto": "Generador inverter Lüsqtoff LGI2.5-8 2500 W (2,2 kW nominal), 208 cc, nafta",
       "precio_27_11_2026": "$634.524",
-      "url": "ML_LINK_PENDING",
+      "url": "https://meli.la/2GFuoyF",
       "pagina": "https://www.mercadolibre.com.ar/grupo-electrogeno-lusqtoff-lgi25-8-generador-inverter-2500w-208cc/p/MLA61283446",
       "seller": "Tienda oficial GRAMABI (MercadoLíder Platinum)",
-      "stock": "disponible (últimas 3 unidades)",
-      "lista_27_11_2026": "$921.873",
+      "stock": "disponible",
+      "lista_27_11_2026": "$921.873,75",
       "descuento": "31% OFF",
-      "nota": "Nuevo. Precio de contado verificado con curl en la página del producto el 27/11/2026. Ficha: tanque 6 L (el resumen automático de ML dice 25 L, error), 75 dB a 7 m, 23 kg.",
-      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+      "nota": "Nuevo. Precio de contado verificado en el navegador el 27/11/2026. ML lo marca antes a $921.873,75 (31% OFF; 634.524 / 921.873,75 ≈ 69%). Ficha: tanque 6 L (el resumen automático de ML dice 25 L, error), 75 dB a 7 m, 23 kg."
     },
     {
       "producto": "Estación de energía portátil EcoFlow River 2 Pro 768 Wh, 800 W (X-Boost 1600 W), LFP",
       "precio_27_11_2026": "$1.501.211",
-      "url": "ML_LINK_PENDING",
+      "url": "https://meli.la/2QLgA5F",
       "pagina": "https://www.mercadolibre.com.ar/ecoflow-river-2-pro-estacion-de-energia-portatil-768wh-800w-x-boost-1600w-bateria-carga-rapida-70-minutos-solar-220w-220v-ups-eps-camping-hogar/p/MLA37963538",
       "seller": "Tienda oficial KU ROA ECOMMERCE (MercadoLíder Platinum)",
-      "stock": "disponible (+25)",
+      "stock": "disponible",
       "lista_27_11_2026": "$1.581.888",
       "descuento": "5% OFF",
-      "nota": "Nuevo. Precio de contado verificado con curl en la página del producto el 27/11/2026.",
-      "estado": "ML_LINK_PENDING: generar meli.la en el generador oficial y reemplazar la URL de página en el post"
+      "nota": "Nuevo. Precio de contado verificado en el navegador el 27/11/2026. ML la marca antes a $1.581.888 (5% OFF)."
     }
   ]
 }
