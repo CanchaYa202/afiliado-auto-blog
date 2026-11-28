@@ -95,7 +95,7 @@ Calefón de fabricación nacional. Según la ficha de Longvie:
 
 ## Sobre el precio
 
-Al 28/11/2026, el **calefón Longvie CN514SSG** figuraba en Mercado Libre a **$524.769** en la Tienda oficial NOVOGAR, con envío gratis (ML lo marca antes a $999.999, 47 % OFF; un mes atrás lo habíamos visto a $590.466). La **ducha Lorenzetti Top Jet** aparecía a **$111.089** en la tienda de un vendedor de Mercado Libre. Son precios al momento de publicar: elegí tienda oficial o MercadoLíder. Y si ves un descuento enorme, revisalo con nuestra guía de [cómo verificar un descuento en Mercado Libre](/posts/como-verificar-descuento-mercado-libre-black-friday-real).
+Al 28/11/2026, el **calefón Longvie CN514SSG** figuraba en Mercado Libre a **$524.769** en la Tienda oficial NOVOGAR, con envío gratis (ML lo marca antes a $999.999, 47 % OFF; un mes atrás lo habíamos visto a $590.466). La **ducha Lorenzetti Top Jet** estaba a **$81.999** de contado en la Tienda oficial HOMEWORLD. Son precios al momento de publicar: elegí tienda oficial o MercadoLíder. Y si ves un descuento enorme, revisalo con nuestra guía de [cómo verificar un descuento en Mercado Libre](/posts/como-verificar-descuento-mercado-libre-black-friday-real).
 
 ## ¿Cuál te conviene?
 
@@ -105,7 +105,7 @@ Al 28/11/2026, el **calefón Longvie CN514SSG** figuraba en Mercado Libre a **$5
 
 ## Productos recomendados
 
-- [Ducha eléctrica Lorenzetti Top Jet Multitemperaturas 6000 W 220 V](https://www.mercadolibre.com.ar/lorenzetti-top-jet-multitemperaturas-ducha-electrica-6000-w-3-temperaturas-pre-color-blanco/p/MLA24055029) — Precio visto el 28/11/2026: $111.089 · confirmá vendedor y stock en la publicación
+- [Ducha eléctrica Lorenzetti Top Jet Multitemperaturas 6000 W 220 V](https://meli.la/2KxPR4x) — Precio al momento de publicar (28/11/2026): $81.999 de contado · Tienda oficial HOMEWORLD · stock disponible
 - [Calefón Longvie CN514SSG 14 L tiro natural pilotless, gas natural](https://meli.la/2hjDgDX) — Precio al momento de publicar (28/11/2026): $524.769 · ML lo marca antes a $999.999 (47 % OFF) · Tienda oficial NOVOGAR · envío gratis
 
 *Este sitio puede recibir una comisión por compras realizadas a través de algunos enlaces, sin costo extra para vos.*
