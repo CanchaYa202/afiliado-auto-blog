@@ -656,5 +656,28 @@
       "descuento": "5% OFF",
       "nota": "Nuevo. Precio de contado verificado en el navegador el 27/11/2026. ML la marca antes a $1.581.888 (5% OFF)."
     }
+  ],
+  "ducha-electrica-vs-calefon-cual-conviene": [
+    {
+      "producto": "Ducha eléctrica Lorenzetti Top Jet Multitemperaturas 6000 W 220 V",
+      "precio_28_11_2026": "$111.089",
+      "url": "https://www.mercadolibre.com.ar/lorenzetti-top-jet-multitemperaturas-ducha-electrica-6000-w-3-temperaturas-pre-color-blanco/p/MLA24055029",
+      "pagina": "https://www.mercadolibre.com.ar/lorenzetti-top-jet-multitemperaturas-ducha-electrica-6000-w-3-temperaturas-pre-color-blanco/p/MLA24055029",
+      "estado": "ML_LINK_PENDING",
+      "seller": "dr-lineablanca (seller_id 568156878; reputación a confirmar, la página trae tag force_mlider)",
+      "stock": "a confirmar",
+      "nota": "ML_LINK_PENDING: generar meli.la en el generador oficial para esta página de producto y reemplazar url acá y en el post. Precio $111.089 visto el 28/11/2026 en la página de vendedor dr-lineablanca (9 cuotas, envío gratis); la página de producto bloqueó curl (account-verification), así que falta confirmar buy box, vendedor MercadoLíder/tienda oficial y stock."
+    },
+    {
+      "producto": "Calefón Longvie CN514SSG 14 L tiro natural pilotless, gas natural",
+      "precio_28_11_2026": "$524.769",
+      "url": "https://meli.la/2hjDgDX",
+      "pagina": "https://www.mercadolibre.com.ar/calefon-longvie-tiro-natural-pilotless-14-litros-cn514ssg-gn/p/MLA52961622",
+      "seller": "Tienda oficial NOVOGAR",
+      "stock": "publicación activa (stock exacto a confirmar)",
+      "lista_28_11_2026": "$999.999",
+      "descuento": "47% OFF",
+      "nota": "Nuevo. meli.la reutilizado de termotanque-electrico-vs-calefon-a-gas (verificado 28/11/2026: 301 con matt_tool=59878850). Precio y vendedor leídos de la landing del meli.la el 28/11/2026: $524.769, antes $999.999 (47% OFF), envío gratis, 4,8 estrellas, +500 vendidos."
+    }
   ]
 }
